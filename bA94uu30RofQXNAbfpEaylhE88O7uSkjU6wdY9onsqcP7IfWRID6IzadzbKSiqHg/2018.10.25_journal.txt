@@ -1,0 +1,10046 @@
+Settings :https://binance.com  urdala77@gmail.com  doge_rur  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+Settings :https://binance.com  urdala77@gmail.com  doge_rur  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+11:04:24.073  https://binance.com/api/v1/depth?symbol=doge_rur&limit=0
+err1
+11:04:32.639 --- Error. No quotes.
+Settings :https://binance.com  urdala77@gmail.com  ETH_BTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+Settings :https://binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+11:11:05.132  https://binance.com/api/v1/depth?symbol=ETHBTC&limit=0
+err1
+11:11:08.283 --- Error. No quotes.
+Settings :https://api.binance.com  urdala77@gmail.com  dogebtc  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+Settings :https://api.binance.com  urdala77@gmail.com  dogebtc  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+11:11:57.012  https://api.binance.com/api/v1/depth?symbol=dogebtc&limit=0
+err1
+11:11:58.654 --- Error. No quotes.
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+11:14:53.987  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=0
+err1
+11:14:55.534 --- Error. No quotes.
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+11:22:29.757  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+11:22:31.315 --- Error. No quotes.
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+11:25:24.273  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+11:25:25.692 --- Error. No quotes.
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+11:26:16.277  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+err2 : JsonReader near 
+11:26:17.733 --- Error. No quotes.
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+11:27:16.343  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+lastUpdateId
+bids
+asks
+11:27:17.699 --- Error. No quotes.
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+11:35:40.535  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+11:37:32.776  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+11:38:54.969  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+11:38:56.504  https://api.binance.com/api/3/info
+MinLot : 0,00000000(0,00000000)   Fee :0.0
+11:38:59.505  method=getInfo&nonce=205467396
+11:38:59.974 --- Error. No balance.  -1,00000000  -1,00000000
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+12:29:22.876  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+12:29:24.490  https://api.binance.com/api/3/info
+MinLot : 0,00000000(0,00000000)   Fee :0.0
+12:29:27.490  method=getInfo&nonce=205497675
+12:29:27.946 --- Error. No balance.  -1,00000000  -1,00000000
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+12:31:30.345  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+12:31:33.346  https://api.binance.com/api/v1/exchangeInfo
+MinLot : 0,00000000(0,00000000)   Fee :0.0
+12:31:34.941  method=getInfo&nonce=205498950
+12:31:35.919 --- Error. No balance.  -1,00000000  -1,00000000
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+12:42:29.431  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+12:42:32.431  https://api.binance.com/api/v1/exchangeInfo
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+12:43:40.510  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+12:43:43.510  https://api.binance.com/api/v1/exchangeInfo
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+12:46:48.525  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+12:46:51.525  https://api.binance.com/api/v1/exchangeInfo
+ETHBTC
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+12:49:17.430  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+12:49:20.430  https://api.binance.com/api/v1/exchangeInfo
+ETHBTC
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+12:53:41.043  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+12:53:44.042  https://api.binance.com/api/v1/exchangeInfo
+symbol
+ETHBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+12:58:10.529  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+12:58:13.529  https://api.binance.com/api/v1/exchangeInfo
+symbol
+ETHBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+12:59:40.038  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+12:59:43.038  https://api.binance.com/api/v1/exchangeInfo
+symbol
+ETHBTC
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+13:02:15.555  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+13:02:18.556  https://api.binance.com/api/v1/exchangeInfo
+symbol
+ETHBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+LTCBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BNBBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+NEOBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+QTUMETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+EOSETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+SNTETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BNTETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BCCBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+GASBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BNBETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BTCUSDT
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ETHUSDT
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+HSRBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+OAXETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+DNTETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+MCOETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ICNETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+MCOBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+WTCBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+WTCETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+LRCBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+LRCETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+QTUMBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+YOYOBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+OMGBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+OMGETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ZRXBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ZRXETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+STRATBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+STRATETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+SNGLSBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+SNGLSETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BQXBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BQXETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+KNCBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+KNCETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+FUNBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+FUNETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+SNMBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+SNMETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+NEOETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+IOTABTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+IOTAETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+LINKBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+LINKETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+XVGBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+XVGETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+SALTBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+SALTETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+MDABTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+MDAETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+MTLBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+MTLETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+SUBBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+SUBETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+EOSBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+SNTBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ETCETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ETCBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+MTHBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+MTHETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ENGBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ENGETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+DNTBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ZECBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ZECETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BNTBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ASTBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ASTETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+DASHBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+DASHETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+OAXBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ICNBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BTGBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BTGETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+EVXBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+EVXETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+REQBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+REQETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+VIBBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+VIBETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+HSRETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+TRXBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+TRXETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+POWRBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+POWRETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ARKBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ARKETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+YOYOETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+XRPBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+XRPETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+MODBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+MODETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ENJBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ENJETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+STORJBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+STORJETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BNBUSDT
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+VENBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+YOYOBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+POWRBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+VENBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+VENETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+KMDBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+KMDETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+NULSBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+RCNBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+RCNETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+RCNBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+NULSBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+NULSETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+RDNBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+RDNETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+RDNBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+XMRBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+XMRETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+DLTBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+WTCBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+DLTBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+DLTETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+AMBBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+AMBETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+AMBBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BCCETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BCCUSDT
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BCCBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BATBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BATETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BATBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BCPTBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BCPTETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BCPTBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ARNBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ARNETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+GVTBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+GVTETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+CDTBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+CDTETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+GXSBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+GXSETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+NEOUSDT
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+NEOBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+POEBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+POEETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+QSPBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+QSPETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+QSPBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BTSBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BTSETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BTSBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+XZCBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+XZCETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+XZCBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+LSKBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+LSKETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+LSKBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+TNTBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+TNTETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+FUELBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+FUELETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+MANABTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+MANAETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BCDBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BCDETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+DGDBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+DGDETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+IOTABNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ADXBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ADXETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ADXBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ADABTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ADAETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+PPTBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+PPTETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+CMTBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+CMTETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+CMTBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+XLMBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+XLMETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+XLMBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+CNDBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+CNDETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+CNDBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+LENDBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+LENDETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+WABIBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+WABIETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+WABIBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+LTCETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+LTCUSDT
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+LTCBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+TNBBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+TNBETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+WAVESBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+WAVESETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+WAVESBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+GTOBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+GTOETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+GTOBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ICXBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ICXETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ICXBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+OSTBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+OSTETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+OSTBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ELFBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ELFETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+AIONBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+AIONETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+AIONBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+NEBLBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+NEBLETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+NEBLBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BRDBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BRDETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BRDBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+MCOBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+EDOBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+EDOETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+WINGSBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+WINGSETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+NAVBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+NAVETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+NAVBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+LUNBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+LUNETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+TRIGBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+TRIGETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+TRIGBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+APPCBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+APPCETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+APPCBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+VIBEBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+VIBEETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+RLCBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+RLCETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+RLCBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+INSBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+INSETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+PIVXBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+PIVXETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+PIVXBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+IOSTBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+IOSTETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+CHATBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+CHATETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+STEEMBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+STEEMETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+STEEMBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+NANOBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+NANOETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+NANOBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+VIABTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+VIAETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+VIABNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BLZBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BLZETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BLZBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+AEBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+AEETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+AEBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+RPXBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+RPXETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+RPXBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+NCASHBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+NCASHETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+NCASHBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+POABTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+POAETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+POABNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ZILBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ZILETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ZILBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ONTBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ONTETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ONTBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+STORMBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+STORMETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+STORMBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+QTUMBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+QTUMUSDT
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+XEMBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+XEMETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+XEMBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+WANBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+WANETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+WANBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+WPRBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+WPRETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+QLCBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+QLCETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+SYSBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+SYSETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+SYSBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+QLCBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+GRSBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+GRSETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ADAUSDT
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ADABNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+CLOAKBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+CLOAKETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+GNTBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+GNTETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+GNTBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+LOOMBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+LOOMETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+LOOMBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+XRPUSDT
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BCNBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BCNETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+BCNBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+REPBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+REPETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+REPBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+TUSDBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+TUSDETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+TUSDBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ZENBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ZENETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ZENBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+SKYBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+SKYETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+SKYBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+EOSUSDT
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+EOSBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+CVCBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+CVCETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+CVCBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+THETABTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+THETAETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+THETABNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+XRPBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+TUSDUSDT
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+IOTAUSDT
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+XLMUSDT
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+IOTXBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+IOTXETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+QKCBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+QKCETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+AGIBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+AGIETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+AGIBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+NXSBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+NXSETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+NXSBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ENJBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+DATABTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+DATAETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ONTUSDT
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+TRXBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+TRXUSDT
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ETCUSDT
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ETCBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ICXUSDT
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+SCBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+SCETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+SCBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+NPXSBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+NPXSETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+VENUSDT
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+KEYBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+KEYETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+NASBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+NASETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+NASBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+MFTBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+MFTETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+MFTBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+DENTBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+DENTETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ARDRBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ARDRETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+ARDRBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+NULSUSDT
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+HOTBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+HOTETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+VETBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+VETETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+VETUSDT
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+VETBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+DOCKBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+DOCKETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+POLYBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+POLYBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+PHXBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+PHXETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+PHXBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+HCBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+HCETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+GOBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+GOBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+PAXBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+PAXBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+PAXUSDT
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+PAXETH
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+RVNBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+RVNBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+DCRBTC
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+DCRBNB
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+MinLot : 0,00000000(0,00000000)   Fee :0.0
+13:02:56.308  method=getInfo&nonce=205517764
+13:02:56.797 --- Error. No balance.  -1,00000000  -1,00000000
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+13:03:30.077  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+13:03:33.077  https://api.binance.com/api/v1/exchangeInfo
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+symbol
+status
+baseAsset
+baseAssetPrecision
+quoteAsset
+quotePrecision
+orderTypes
+icebergAllowed
+filters
+MinLot : 0,00000000(0,00000000)   Fee :0.0
+13:04:07.590  method=getInfo&nonce=205518476
+13:04:08.308 --- Error. No balance.  -1,00000000  -1,00000000
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+13:04:38.410  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+13:04:41.410  https://api.binance.com/api/v1/exchangeInfo
+ETHBTC
+LTCBTC
+BNBBTC
+NEOBTC
+QTUMETH
+EOSETH
+SNTETH
+BNTETH
+BCCBTC
+GASBTC
+BNBETH
+BTCUSDT
+ETHUSDT
+HSRBTC
+OAXETH
+DNTETH
+MCOETH
+ICNETH
+MCOBTC
+WTCBTC
+WTCETH
+LRCBTC
+LRCETH
+QTUMBTC
+YOYOBTC
+OMGBTC
+OMGETH
+ZRXBTC
+ZRXETH
+STRATBTC
+STRATETH
+SNGLSBTC
+SNGLSETH
+BQXBTC
+BQXETH
+KNCBTC
+KNCETH
+FUNBTC
+FUNETH
+SNMBTC
+SNMETH
+NEOETH
+IOTABTC
+IOTAETH
+LINKBTC
+LINKETH
+XVGBTC
+XVGETH
+SALTBTC
+SALTETH
+MDABTC
+MDAETH
+MTLBTC
+MTLETH
+SUBBTC
+SUBETH
+EOSBTC
+SNTBTC
+ETCETH
+ETCBTC
+MTHBTC
+MTHETH
+ENGBTC
+ENGETH
+DNTBTC
+ZECBTC
+ZECETH
+BNTBTC
+ASTBTC
+ASTETH
+DASHBTC
+DASHETH
+OAXBTC
+ICNBTC
+BTGBTC
+BTGETH
+EVXBTC
+EVXETH
+REQBTC
+REQETH
+VIBBTC
+VIBETH
+HSRETH
+TRXBTC
+TRXETH
+POWRBTC
+POWRETH
+ARKBTC
+ARKETH
+YOYOETH
+XRPBTC
+XRPETH
+MODBTC
+MODETH
+ENJBTC
+ENJETH
+STORJBTC
+STORJETH
+BNBUSDT
+VENBNB
+YOYOBNB
+POWRBNB
+VENBTC
+VENETH
+KMDBTC
+KMDETH
+NULSBNB
+RCNBTC
+RCNETH
+RCNBNB
+NULSBTC
+NULSETH
+RDNBTC
+RDNETH
+RDNBNB
+XMRBTC
+XMRETH
+DLTBNB
+WTCBNB
+DLTBTC
+DLTETH
+AMBBTC
+AMBETH
+AMBBNB
+BCCETH
+BCCUSDT
+BCCBNB
+BATBTC
+BATETH
+BATBNB
+BCPTBTC
+BCPTETH
+BCPTBNB
+ARNBTC
+ARNETH
+GVTBTC
+GVTETH
+CDTBTC
+CDTETH
+GXSBTC
+GXSETH
+NEOUSDT
+NEOBNB
+POEBTC
+POEETH
+QSPBTC
+QSPETH
+QSPBNB
+BTSBTC
+BTSETH
+BTSBNB
+XZCBTC
+XZCETH
+XZCBNB
+LSKBTC
+LSKETH
+LSKBNB
+TNTBTC
+TNTETH
+FUELBTC
+FUELETH
+MANABTC
+MANAETH
+BCDBTC
+BCDETH
+DGDBTC
+DGDETH
+IOTABNB
+ADXBTC
+ADXETH
+ADXBNB
+ADABTC
+ADAETH
+PPTBTC
+PPTETH
+CMTBTC
+CMTETH
+CMTBNB
+XLMBTC
+XLMETH
+XLMBNB
+CNDBTC
+CNDETH
+CNDBNB
+LENDBTC
+LENDETH
+WABIBTC
+WABIETH
+WABIBNB
+LTCETH
+LTCUSDT
+LTCBNB
+TNBBTC
+TNBETH
+WAVESBTC
+WAVESETH
+WAVESBNB
+GTOBTC
+GTOETH
+GTOBNB
+ICXBTC
+ICXETH
+ICXBNB
+OSTBTC
+OSTETH
+OSTBNB
+ELFBTC
+ELFETH
+AIONBTC
+AIONETH
+AIONBNB
+NEBLBTC
+NEBLETH
+NEBLBNB
+BRDBTC
+BRDETH
+BRDBNB
+MCOBNB
+EDOBTC
+EDOETH
+WINGSBTC
+WINGSETH
+NAVBTC
+NAVETH
+NAVBNB
+LUNBTC
+LUNETH
+TRIGBTC
+TRIGETH
+TRIGBNB
+APPCBTC
+APPCETH
+APPCBNB
+VIBEBTC
+VIBEETH
+RLCBTC
+RLCETH
+RLCBNB
+INSBTC
+INSETH
+PIVXBTC
+PIVXETH
+PIVXBNB
+IOSTBTC
+IOSTETH
+CHATBTC
+CHATETH
+STEEMBTC
+STEEMETH
+STEEMBNB
+NANOBTC
+NANOETH
+NANOBNB
+VIABTC
+VIAETH
+VIABNB
+BLZBTC
+BLZETH
+BLZBNB
+AEBTC
+AEETH
+AEBNB
+RPXBTC
+RPXETH
+RPXBNB
+NCASHBTC
+NCASHETH
+NCASHBNB
+POABTC
+POAETH
+POABNB
+ZILBTC
+ZILETH
+ZILBNB
+ONTBTC
+ONTETH
+ONTBNB
+STORMBTC
+STORMETH
+STORMBNB
+QTUMBNB
+QTUMUSDT
+XEMBTC
+XEMETH
+XEMBNB
+WANBTC
+WANETH
+WANBNB
+WPRBTC
+WPRETH
+QLCBTC
+QLCETH
+SYSBTC
+SYSETH
+SYSBNB
+QLCBNB
+GRSBTC
+GRSETH
+ADAUSDT
+ADABNB
+CLOAKBTC
+CLOAKETH
+GNTBTC
+GNTETH
+GNTBNB
+LOOMBTC
+LOOMETH
+LOOMBNB
+XRPUSDT
+BCNBTC
+BCNETH
+BCNBNB
+REPBTC
+REPETH
+REPBNB
+TUSDBTC
+TUSDETH
+TUSDBNB
+ZENBTC
+ZENETH
+ZENBNB
+SKYBTC
+SKYETH
+SKYBNB
+EOSUSDT
+EOSBNB
+CVCBTC
+CVCETH
+CVCBNB
+THETABTC
+THETAETH
+THETABNB
+XRPBNB
+TUSDUSDT
+IOTAUSDT
+XLMUSDT
+IOTXBTC
+IOTXETH
+QKCBTC
+QKCETH
+AGIBTC
+AGIETH
+AGIBNB
+NXSBTC
+NXSETH
+NXSBNB
+ENJBNB
+DATABTC
+DATAETH
+ONTUSDT
+TRXBNB
+TRXUSDT
+ETCUSDT
+ETCBNB
+ICXUSDT
+SCBTC
+SCETH
+SCBNB
+NPXSBTC
+NPXSETH
+VENUSDT
+KEYBTC
+KEYETH
+NASBTC
+NASETH
+NASBNB
+MFTBTC
+MFTETH
+MFTBNB
+DENTBTC
+DENTETH
+ARDRBTC
+ARDRETH
+ARDRBNB
+NULSUSDT
+HOTBTC
+HOTETH
+VETBTC
+VETETH
+VETUSDT
+VETBNB
+DOCKBTC
+DOCKETH
+POLYBTC
+POLYBNB
+PHXBTC
+PHXETH
+PHXBNB
+HCBTC
+HCETH
+GOBTC
+GOBNB
+PAXBTC
+PAXBNB
+PAXUSDT
+PAXETH
+RVNBTC
+RVNBNB
+DCRBTC
+DCRBNB
+MinLot : 0,00000000(0,00000000)   Fee :0.0
+13:04:46.076  method=getInfo&nonce=205518861
+13:04:47.187 --- Error. No balance.  -1,00000000  -1,00000000
+13:10:26.413 --- Start trade on BUY
+13:10:26.519  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=10
+13:10:27.733 --- Stop trade on BUY
+13:10:29.519  https://api.binance.com/api/v1/exchangeInfo
+ETHBTC
+LTCBTC
+BNBBTC
+NEOBTC
+QTUMETH
+EOSETH
+SNTETH
+BNTETH
+BCCBTC
+GASBTC
+BNBETH
+BTCUSDT
+ETHUSDT
+HSRBTC
+OAXETH
+DNTETH
+MCOETH
+ICNETH
+MCOBTC
+WTCBTC
+WTCETH
+LRCBTC
+LRCETH
+QTUMBTC
+YOYOBTC
+OMGBTC
+OMGETH
+ZRXBTC
+ZRXETH
+STRATBTC
+STRATETH
+SNGLSBTC
+SNGLSETH
+BQXBTC
+BQXETH
+KNCBTC
+KNCETH
+FUNBTC
+FUNETH
+SNMBTC
+SNMETH
+NEOETH
+IOTABTC
+IOTAETH
+LINKBTC
+LINKETH
+XVGBTC
+XVGETH
+SALTBTC
+SALTETH
+MDABTC
+MDAETH
+MTLBTC
+MTLETH
+SUBBTC
+SUBETH
+EOSBTC
+SNTBTC
+ETCETH
+ETCBTC
+MTHBTC
+MTHETH
+ENGBTC
+ENGETH
+DNTBTC
+ZECBTC
+ZECETH
+BNTBTC
+ASTBTC
+ASTETH
+DASHBTC
+DASHETH
+OAXBTC
+ICNBTC
+BTGBTC
+BTGETH
+EVXBTC
+EVXETH
+REQBTC
+REQETH
+VIBBTC
+VIBETH
+HSRETH
+TRXBTC
+TRXETH
+POWRBTC
+POWRETH
+ARKBTC
+ARKETH
+YOYOETH
+XRPBTC
+XRPETH
+MODBTC
+MODETH
+ENJBTC
+ENJETH
+STORJBTC
+STORJETH
+BNBUSDT
+VENBNB
+YOYOBNB
+POWRBNB
+VENBTC
+VENETH
+KMDBTC
+KMDETH
+NULSBNB
+RCNBTC
+RCNETH
+RCNBNB
+NULSBTC
+NULSETH
+RDNBTC
+RDNETH
+RDNBNB
+XMRBTC
+XMRETH
+DLTBNB
+WTCBNB
+DLTBTC
+DLTETH
+AMBBTC
+AMBETH
+AMBBNB
+BCCETH
+BCCUSDT
+BCCBNB
+BATBTC
+BATETH
+BATBNB
+BCPTBTC
+BCPTETH
+BCPTBNB
+ARNBTC
+ARNETH
+GVTBTC
+GVTETH
+CDTBTC
+CDTETH
+GXSBTC
+GXSETH
+NEOUSDT
+NEOBNB
+POEBTC
+POEETH
+QSPBTC
+QSPETH
+QSPBNB
+BTSBTC
+BTSETH
+BTSBNB
+XZCBTC
+XZCETH
+XZCBNB
+LSKBTC
+LSKETH
+LSKBNB
+TNTBTC
+TNTETH
+FUELBTC
+FUELETH
+MANABTC
+MANAETH
+BCDBTC
+BCDETH
+DGDBTC
+DGDETH
+IOTABNB
+ADXBTC
+ADXETH
+ADXBNB
+ADABTC
+ADAETH
+PPTBTC
+PPTETH
+CMTBTC
+CMTETH
+CMTBNB
+XLMBTC
+XLMETH
+XLMBNB
+CNDBTC
+CNDETH
+CNDBNB
+LENDBTC
+LENDETH
+WABIBTC
+WABIETH
+WABIBNB
+LTCETH
+LTCUSDT
+LTCBNB
+TNBBTC
+TNBETH
+WAVESBTC
+WAVESETH
+WAVESBNB
+GTOBTC
+GTOETH
+GTOBNB
+ICXBTC
+ICXETH
+ICXBNB
+OSTBTC
+OSTETH
+OSTBNB
+ELFBTC
+ELFETH
+AIONBTC
+AIONETH
+AIONBNB
+NEBLBTC
+NEBLETH
+NEBLBNB
+BRDBTC
+BRDETH
+BRDBNB
+MCOBNB
+EDOBTC
+EDOETH
+WINGSBTC
+WINGSETH
+NAVBTC
+NAVETH
+NAVBNB
+LUNBTC
+LUNETH
+TRIGBTC
+TRIGETH
+TRIGBNB
+APPCBTC
+APPCETH
+APPCBNB
+VIBEBTC
+VIBEETH
+RLCBTC
+RLCETH
+RLCBNB
+INSBTC
+INSETH
+PIVXBTC
+PIVXETH
+PIVXBNB
+IOSTBTC
+IOSTETH
+CHATBTC
+CHATETH
+STEEMBTC
+STEEMETH
+STEEMBNB
+NANOBTC
+NANOETH
+NANOBNB
+VIABTC
+VIAETH
+VIABNB
+BLZBTC
+BLZETH
+BLZBNB
+AEBTC
+AEETH
+AEBNB
+RPXBTC
+RPXETH
+RPXBNB
+NCASHBTC
+NCASHETH
+NCASHBNB
+POABTC
+POAETH
+POABNB
+ZILBTC
+ZILETH
+ZILBNB
+ONTBTC
+ONTETH
+ONTBNB
+STORMBTC
+STORMETH
+STORMBNB
+QTUMBNB
+QTUMUSDT
+XEMBTC
+XEMETH
+XEMBNB
+WANBTC
+WANETH
+WANBNB
+WPRBTC
+WPRETH
+QLCBTC
+QLCETH
+SYSBTC
+SYSETH
+SYSBNB
+QLCBNB
+GRSBTC
+GRSETH
+ADAUSDT
+ADABNB
+CLOAKBTC
+CLOAKETH
+GNTBTC
+GNTETH
+GNTBNB
+LOOMBTC
+LOOMETH
+LOOMBNB
+XRPUSDT
+BCNBTC
+BCNETH
+BCNBNB
+REPBTC
+REPETH
+REPBNB
+TUSDBTC
+TUSDETH
+TUSDBNB
+ZENBTC
+ZENETH
+ZENBNB
+SKYBTC
+SKYETH
+SKYBNB
+EOSUSDT
+EOSBNB
+CVCBTC
+CVCETH
+CVCBNB
+THETABTC
+THETAETH
+THETABNB
+XRPBNB
+TUSDUSDT
+IOTAUSDT
+XLMUSDT
+IOTXBTC
+IOTXETH
+QKCBTC
+QKCETH
+AGIBTC
+AGIETH
+AGIBNB
+NXSBTC
+NXSETH
+NXSBNB
+ENJBNB
+DATABTC
+DATAETH
+ONTUSDT
+TRXBNB
+TRXUSDT
+ETCUSDT
+ETCBNB
+ICXUSDT
+SCBTC
+SCETH
+SCBNB
+NPXSBTC
+NPXSETH
+VENUSDT
+KEYBTC
+KEYETH
+NASBTC
+NASETH
+NASBNB
+MFTBTC
+MFTETH
+MFTBNB
+DENTBTC
+DENTETH
+ARDRBTC
+ARDRETH
+ARDRBNB
+NULSUSDT
+HOTBTC
+HOTETH
+VETBTC
+VETETH
+VETUSDT
+VETBNB
+DOCKBTC
+DOCKETH
+POLYBTC
+POLYBNB
+PHXBTC
+PHXETH
+PHXBNB
+HCBTC
+HCETH
+GOBTC
+GOBNB
+PAXBTC
+PAXBNB
+PAXUSDT
+PAXETH
+RVNBTC
+RVNBNB
+DCRBTC
+DCRBNB
+MinLot : 0,00000000(0,00000000)   Fee :0.0
+13:10:35.705  method=getInfo&nonce=205522358
+13:10:36.177 --- Error. No balance.  -1,00000000  -1,00000000
+13:10:38.706  method=ActiveOrders&nonce=205522388&pair=ETHBTC
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+13:10:46.394  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+13:10:49.393  https://api.binance.com/api/v1/exchangeInfo
+ETHBTC
+LTCBTC
+BNBBTC
+NEOBTC
+QTUMETH
+EOSETH
+SNTETH
+BNTETH
+BCCBTC
+GASBTC
+BNBETH
+BTCUSDT
+ETHUSDT
+HSRBTC
+OAXETH
+DNTETH
+MCOETH
+ICNETH
+MCOBTC
+WTCBTC
+WTCETH
+LRCBTC
+LRCETH
+QTUMBTC
+YOYOBTC
+OMGBTC
+OMGETH
+ZRXBTC
+ZRXETH
+STRATBTC
+STRATETH
+SNGLSBTC
+SNGLSETH
+BQXBTC
+BQXETH
+KNCBTC
+KNCETH
+FUNBTC
+FUNETH
+SNMBTC
+SNMETH
+NEOETH
+IOTABTC
+IOTAETH
+LINKBTC
+LINKETH
+XVGBTC
+XVGETH
+SALTBTC
+SALTETH
+MDABTC
+MDAETH
+MTLBTC
+MTLETH
+SUBBTC
+SUBETH
+EOSBTC
+SNTBTC
+ETCETH
+ETCBTC
+MTHBTC
+MTHETH
+ENGBTC
+ENGETH
+DNTBTC
+ZECBTC
+ZECETH
+BNTBTC
+ASTBTC
+ASTETH
+DASHBTC
+DASHETH
+OAXBTC
+ICNBTC
+BTGBTC
+BTGETH
+EVXBTC
+EVXETH
+REQBTC
+REQETH
+VIBBTC
+VIBETH
+HSRETH
+TRXBTC
+TRXETH
+POWRBTC
+POWRETH
+ARKBTC
+ARKETH
+YOYOETH
+XRPBTC
+XRPETH
+MODBTC
+MODETH
+ENJBTC
+ENJETH
+STORJBTC
+STORJETH
+BNBUSDT
+VENBNB
+YOYOBNB
+POWRBNB
+VENBTC
+VENETH
+KMDBTC
+KMDETH
+NULSBNB
+RCNBTC
+RCNETH
+RCNBNB
+NULSBTC
+NULSETH
+RDNBTC
+RDNETH
+RDNBNB
+XMRBTC
+XMRETH
+DLTBNB
+WTCBNB
+DLTBTC
+DLTETH
+AMBBTC
+AMBETH
+AMBBNB
+BCCETH
+BCCUSDT
+BCCBNB
+BATBTC
+BATETH
+BATBNB
+BCPTBTC
+BCPTETH
+BCPTBNB
+ARNBTC
+ARNETH
+GVTBTC
+GVTETH
+CDTBTC
+CDTETH
+GXSBTC
+GXSETH
+NEOUSDT
+NEOBNB
+POEBTC
+POEETH
+QSPBTC
+QSPETH
+QSPBNB
+BTSBTC
+BTSETH
+BTSBNB
+XZCBTC
+XZCETH
+XZCBNB
+LSKBTC
+LSKETH
+LSKBNB
+TNTBTC
+TNTETH
+FUELBTC
+FUELETH
+MANABTC
+MANAETH
+BCDBTC
+BCDETH
+DGDBTC
+DGDETH
+IOTABNB
+ADXBTC
+ADXETH
+ADXBNB
+ADABTC
+ADAETH
+PPTBTC
+PPTETH
+CMTBTC
+CMTETH
+CMTBNB
+XLMBTC
+XLMETH
+XLMBNB
+CNDBTC
+CNDETH
+CNDBNB
+LENDBTC
+LENDETH
+WABIBTC
+WABIETH
+WABIBNB
+LTCETH
+LTCUSDT
+LTCBNB
+TNBBTC
+TNBETH
+WAVESBTC
+WAVESETH
+WAVESBNB
+GTOBTC
+GTOETH
+GTOBNB
+ICXBTC
+ICXETH
+ICXBNB
+OSTBTC
+OSTETH
+OSTBNB
+ELFBTC
+ELFETH
+AIONBTC
+AIONETH
+AIONBNB
+NEBLBTC
+NEBLETH
+NEBLBNB
+BRDBTC
+BRDETH
+BRDBNB
+MCOBNB
+EDOBTC
+EDOETH
+WINGSBTC
+WINGSETH
+NAVBTC
+NAVETH
+NAVBNB
+LUNBTC
+LUNETH
+TRIGBTC
+TRIGETH
+TRIGBNB
+APPCBTC
+APPCETH
+APPCBNB
+VIBEBTC
+VIBEETH
+RLCBTC
+RLCETH
+RLCBNB
+INSBTC
+INSETH
+PIVXBTC
+PIVXETH
+PIVXBNB
+IOSTBTC
+IOSTETH
+CHATBTC
+CHATETH
+STEEMBTC
+STEEMETH
+STEEMBNB
+NANOBTC
+NANOETH
+NANOBNB
+VIABTC
+VIAETH
+VIABNB
+BLZBTC
+BLZETH
+BLZBNB
+AEBTC
+AEETH
+AEBNB
+RPXBTC
+RPXETH
+RPXBNB
+NCASHBTC
+NCASHETH
+NCASHBNB
+POABTC
+POAETH
+POABNB
+ZILBTC
+ZILETH
+ZILBNB
+ONTBTC
+ONTETH
+ONTBNB
+STORMBTC
+STORMETH
+STORMBNB
+QTUMBNB
+QTUMUSDT
+XEMBTC
+XEMETH
+XEMBNB
+WANBTC
+WANETH
+WANBNB
+WPRBTC
+WPRETH
+QLCBTC
+QLCETH
+SYSBTC
+SYSETH
+SYSBNB
+QLCBNB
+GRSBTC
+GRSETH
+ADAUSDT
+ADABNB
+CLOAKBTC
+CLOAKETH
+GNTBTC
+GNTETH
+GNTBNB
+LOOMBTC
+LOOMETH
+LOOMBNB
+XRPUSDT
+BCNBTC
+BCNETH
+BCNBNB
+REPBTC
+REPETH
+REPBNB
+TUSDBTC
+TUSDETH
+TUSDBNB
+ZENBTC
+ZENETH
+ZENBNB
+SKYBTC
+SKYETH
+SKYBNB
+EOSUSDT
+EOSBNB
+CVCBTC
+CVCETH
+CVCBNB
+THETABTC
+THETAETH
+THETABNB
+XRPBNB
+TUSDUSDT
+IOTAUSDT
+XLMUSDT
+IOTXBTC
+IOTXETH
+QKCBTC
+QKCETH
+AGIBTC
+AGIETH
+AGIBNB
+NXSBTC
+NXSETH
+NXSBNB
+ENJBNB
+DATABTC
+DATAETH
+ONTUSDT
+TRXBNB
+TRXUSDT
+ETCUSDT
+ETCBNB
+ICXUSDT
+SCBTC
+SCETH
+SCBNB
+NPXSBTC
+NPXSETH
+VENUSDT
+KEYBTC
+KEYETH
+NASBTC
+NASETH
+NASBNB
+MFTBTC
+MFTETH
+MFTBNB
+DENTBTC
+DENTETH
+ARDRBTC
+ARDRETH
+ARDRBNB
+NULSUSDT
+HOTBTC
+HOTETH
+VETBTC
+VETETH
+VETUSDT
+VETBNB
+DOCKBTC
+DOCKETH
+POLYBTC
+POLYBNB
+PHXBTC
+PHXETH
+PHXBNB
+HCBTC
+HCETH
+GOBTC
+GOBNB
+PAXBTC
+PAXBNB
+PAXUSDT
+PAXETH
+RVNBTC
+RVNBNB
+DCRBTC
+DCRBNB
+MinLot : 0,00000000(0,00000000)   Fee :0.0
+13:10:54.608  method=getInfo&nonce=205522547
+13:10:55.593 --- Error. No balance.  -1,00000000  -1,00000000
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+14:00:53.811  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+14:00:56.810  https://api.binance.com/api/v1/exchangeInfo
+MinLot : 0,00000000(0,00000000)   Fee :0.0
+14:00:57.607  method=getInfo&nonce=205552577
+14:00:58.106 --- Error. No balance.  -1,00000000  -1,00000000
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+14:02:02.532  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+14:02:05.532  https://api.binance.com/api/v1/exchangeInfo
+MinLot : 0,00000000(0,00000000)   Fee :0.0
+14:02:07.147  method=getInfo&nonce=205553272
+14:02:07.617 --- Error. No balance.  -1,00000000  -1,00000000
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+14:03:54.342  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+14:03:57.342  https://api.binance.com/api/v1/exchangeInfo
+ETHBTC  ETHBTC
+LTCBTC  ETHBTC
+BNBBTC  ETHBTC
+NEOBTC  ETHBTC
+QTUMETH  ETHBTC
+EOSETH  ETHBTC
+SNTETH  ETHBTC
+BNTETH  ETHBTC
+BCCBTC  ETHBTC
+GASBTC  ETHBTC
+BNBETH  ETHBTC
+BTCUSDT  ETHBTC
+ETHUSDT  ETHBTC
+HSRBTC  ETHBTC
+OAXETH  ETHBTC
+DNTETH  ETHBTC
+MCOETH  ETHBTC
+ICNETH  ETHBTC
+MCOBTC  ETHBTC
+WTCBTC  ETHBTC
+WTCETH  ETHBTC
+LRCBTC  ETHBTC
+LRCETH  ETHBTC
+QTUMBTC  ETHBTC
+YOYOBTC  ETHBTC
+OMGBTC  ETHBTC
+OMGETH  ETHBTC
+ZRXBTC  ETHBTC
+ZRXETH  ETHBTC
+STRATBTC  ETHBTC
+STRATETH  ETHBTC
+SNGLSBTC  ETHBTC
+SNGLSETH  ETHBTC
+BQXBTC  ETHBTC
+BQXETH  ETHBTC
+KNCBTC  ETHBTC
+KNCETH  ETHBTC
+FUNBTC  ETHBTC
+FUNETH  ETHBTC
+SNMBTC  ETHBTC
+SNMETH  ETHBTC
+NEOETH  ETHBTC
+IOTABTC  ETHBTC
+IOTAETH  ETHBTC
+LINKBTC  ETHBTC
+LINKETH  ETHBTC
+XVGBTC  ETHBTC
+XVGETH  ETHBTC
+SALTBTC  ETHBTC
+SALTETH  ETHBTC
+MDABTC  ETHBTC
+MDAETH  ETHBTC
+MTLBTC  ETHBTC
+MTLETH  ETHBTC
+SUBBTC  ETHBTC
+SUBETH  ETHBTC
+EOSBTC  ETHBTC
+SNTBTC  ETHBTC
+ETCETH  ETHBTC
+ETCBTC  ETHBTC
+MTHBTC  ETHBTC
+MTHETH  ETHBTC
+ENGBTC  ETHBTC
+ENGETH  ETHBTC
+DNTBTC  ETHBTC
+ZECBTC  ETHBTC
+ZECETH  ETHBTC
+BNTBTC  ETHBTC
+ASTBTC  ETHBTC
+ASTETH  ETHBTC
+DASHBTC  ETHBTC
+DASHETH  ETHBTC
+OAXBTC  ETHBTC
+ICNBTC  ETHBTC
+BTGBTC  ETHBTC
+BTGETH  ETHBTC
+EVXBTC  ETHBTC
+EVXETH  ETHBTC
+REQBTC  ETHBTC
+REQETH  ETHBTC
+VIBBTC  ETHBTC
+VIBETH  ETHBTC
+HSRETH  ETHBTC
+TRXBTC  ETHBTC
+TRXETH  ETHBTC
+POWRBTC  ETHBTC
+POWRETH  ETHBTC
+ARKBTC  ETHBTC
+ARKETH  ETHBTC
+YOYOETH  ETHBTC
+XRPBTC  ETHBTC
+XRPETH  ETHBTC
+MODBTC  ETHBTC
+MODETH  ETHBTC
+ENJBTC  ETHBTC
+ENJETH  ETHBTC
+STORJBTC  ETHBTC
+STORJETH  ETHBTC
+BNBUSDT  ETHBTC
+VENBNB  ETHBTC
+YOYOBNB  ETHBTC
+POWRBNB  ETHBTC
+VENBTC  ETHBTC
+VENETH  ETHBTC
+KMDBTC  ETHBTC
+KMDETH  ETHBTC
+NULSBNB  ETHBTC
+RCNBTC  ETHBTC
+RCNETH  ETHBTC
+RCNBNB  ETHBTC
+NULSBTC  ETHBTC
+NULSETH  ETHBTC
+RDNBTC  ETHBTC
+RDNETH  ETHBTC
+RDNBNB  ETHBTC
+XMRBTC  ETHBTC
+XMRETH  ETHBTC
+DLTBNB  ETHBTC
+WTCBNB  ETHBTC
+DLTBTC  ETHBTC
+DLTETH  ETHBTC
+AMBBTC  ETHBTC
+AMBETH  ETHBTC
+AMBBNB  ETHBTC
+BCCETH  ETHBTC
+BCCUSDT  ETHBTC
+BCCBNB  ETHBTC
+BATBTC  ETHBTC
+BATETH  ETHBTC
+BATBNB  ETHBTC
+BCPTBTC  ETHBTC
+BCPTETH  ETHBTC
+BCPTBNB  ETHBTC
+ARNBTC  ETHBTC
+ARNETH  ETHBTC
+GVTBTC  ETHBTC
+GVTETH  ETHBTC
+CDTBTC  ETHBTC
+CDTETH  ETHBTC
+GXSBTC  ETHBTC
+GXSETH  ETHBTC
+NEOUSDT  ETHBTC
+NEOBNB  ETHBTC
+POEBTC  ETHBTC
+POEETH  ETHBTC
+QSPBTC  ETHBTC
+QSPETH  ETHBTC
+QSPBNB  ETHBTC
+BTSBTC  ETHBTC
+BTSETH  ETHBTC
+BTSBNB  ETHBTC
+XZCBTC  ETHBTC
+XZCETH  ETHBTC
+XZCBNB  ETHBTC
+LSKBTC  ETHBTC
+LSKETH  ETHBTC
+LSKBNB  ETHBTC
+TNTBTC  ETHBTC
+TNTETH  ETHBTC
+FUELBTC  ETHBTC
+FUELETH  ETHBTC
+MANABTC  ETHBTC
+MANAETH  ETHBTC
+BCDBTC  ETHBTC
+BCDETH  ETHBTC
+DGDBTC  ETHBTC
+DGDETH  ETHBTC
+IOTABNB  ETHBTC
+ADXBTC  ETHBTC
+ADXETH  ETHBTC
+ADXBNB  ETHBTC
+ADABTC  ETHBTC
+ADAETH  ETHBTC
+PPTBTC  ETHBTC
+PPTETH  ETHBTC
+CMTBTC  ETHBTC
+CMTETH  ETHBTC
+CMTBNB  ETHBTC
+XLMBTC  ETHBTC
+XLMETH  ETHBTC
+XLMBNB  ETHBTC
+CNDBTC  ETHBTC
+CNDETH  ETHBTC
+CNDBNB  ETHBTC
+LENDBTC  ETHBTC
+LENDETH  ETHBTC
+WABIBTC  ETHBTC
+WABIETH  ETHBTC
+WABIBNB  ETHBTC
+LTCETH  ETHBTC
+LTCUSDT  ETHBTC
+LTCBNB  ETHBTC
+TNBBTC  ETHBTC
+TNBETH  ETHBTC
+WAVESBTC  ETHBTC
+WAVESETH  ETHBTC
+WAVESBNB  ETHBTC
+GTOBTC  ETHBTC
+GTOETH  ETHBTC
+GTOBNB  ETHBTC
+ICXBTC  ETHBTC
+ICXETH  ETHBTC
+ICXBNB  ETHBTC
+OSTBTC  ETHBTC
+OSTETH  ETHBTC
+OSTBNB  ETHBTC
+ELFBTC  ETHBTC
+ELFETH  ETHBTC
+AIONBTC  ETHBTC
+AIONETH  ETHBTC
+AIONBNB  ETHBTC
+NEBLBTC  ETHBTC
+NEBLETH  ETHBTC
+NEBLBNB  ETHBTC
+BRDBTC  ETHBTC
+BRDETH  ETHBTC
+BRDBNB  ETHBTC
+MCOBNB  ETHBTC
+EDOBTC  ETHBTC
+EDOETH  ETHBTC
+WINGSBTC  ETHBTC
+WINGSETH  ETHBTC
+NAVBTC  ETHBTC
+NAVETH  ETHBTC
+NAVBNB  ETHBTC
+LUNBTC  ETHBTC
+LUNETH  ETHBTC
+TRIGBTC  ETHBTC
+TRIGETH  ETHBTC
+TRIGBNB  ETHBTC
+APPCBTC  ETHBTC
+APPCETH  ETHBTC
+APPCBNB  ETHBTC
+VIBEBTC  ETHBTC
+VIBEETH  ETHBTC
+RLCBTC  ETHBTC
+RLCETH  ETHBTC
+RLCBNB  ETHBTC
+INSBTC  ETHBTC
+INSETH  ETHBTC
+PIVXBTC  ETHBTC
+PIVXETH  ETHBTC
+PIVXBNB  ETHBTC
+IOSTBTC  ETHBTC
+IOSTETH  ETHBTC
+CHATBTC  ETHBTC
+CHATETH  ETHBTC
+STEEMBTC  ETHBTC
+STEEMETH  ETHBTC
+STEEMBNB  ETHBTC
+NANOBTC  ETHBTC
+NANOETH  ETHBTC
+NANOBNB  ETHBTC
+VIABTC  ETHBTC
+VIAETH  ETHBTC
+VIABNB  ETHBTC
+BLZBTC  ETHBTC
+BLZETH  ETHBTC
+BLZBNB  ETHBTC
+AEBTC  ETHBTC
+AEETH  ETHBTC
+AEBNB  ETHBTC
+RPXBTC  ETHBTC
+RPXETH  ETHBTC
+RPXBNB  ETHBTC
+NCASHBTC  ETHBTC
+NCASHETH  ETHBTC
+NCASHBNB  ETHBTC
+POABTC  ETHBTC
+POAETH  ETHBTC
+POABNB  ETHBTC
+ZILBTC  ETHBTC
+ZILETH  ETHBTC
+ZILBNB  ETHBTC
+ONTBTC  ETHBTC
+ONTETH  ETHBTC
+ONTBNB  ETHBTC
+STORMBTC  ETHBTC
+STORMETH  ETHBTC
+STORMBNB  ETHBTC
+QTUMBNB  ETHBTC
+QTUMUSDT  ETHBTC
+XEMBTC  ETHBTC
+XEMETH  ETHBTC
+XEMBNB  ETHBTC
+WANBTC  ETHBTC
+WANETH  ETHBTC
+WANBNB  ETHBTC
+WPRBTC  ETHBTC
+WPRETH  ETHBTC
+QLCBTC  ETHBTC
+QLCETH  ETHBTC
+SYSBTC  ETHBTC
+SYSETH  ETHBTC
+SYSBNB  ETHBTC
+QLCBNB  ETHBTC
+GRSBTC  ETHBTC
+GRSETH  ETHBTC
+ADAUSDT  ETHBTC
+ADABNB  ETHBTC
+CLOAKBTC  ETHBTC
+CLOAKETH  ETHBTC
+GNTBTC  ETHBTC
+GNTETH  ETHBTC
+GNTBNB  ETHBTC
+LOOMBTC  ETHBTC
+LOOMETH  ETHBTC
+LOOMBNB  ETHBTC
+XRPUSDT  ETHBTC
+BCNBTC  ETHBTC
+BCNETH  ETHBTC
+BCNBNB  ETHBTC
+REPBTC  ETHBTC
+REPETH  ETHBTC
+REPBNB  ETHBTC
+TUSDBTC  ETHBTC
+TUSDETH  ETHBTC
+TUSDBNB  ETHBTC
+ZENBTC  ETHBTC
+ZENETH  ETHBTC
+ZENBNB  ETHBTC
+SKYBTC  ETHBTC
+SKYETH  ETHBTC
+SKYBNB  ETHBTC
+EOSUSDT  ETHBTC
+EOSBNB  ETHBTC
+CVCBTC  ETHBTC
+CVCETH  ETHBTC
+CVCBNB  ETHBTC
+THETABTC  ETHBTC
+THETAETH  ETHBTC
+THETABNB  ETHBTC
+XRPBNB  ETHBTC
+TUSDUSDT  ETHBTC
+IOTAUSDT  ETHBTC
+XLMUSDT  ETHBTC
+IOTXBTC  ETHBTC
+IOTXETH  ETHBTC
+QKCBTC  ETHBTC
+QKCETH  ETHBTC
+AGIBTC  ETHBTC
+AGIETH  ETHBTC
+AGIBNB  ETHBTC
+NXSBTC  ETHBTC
+NXSETH  ETHBTC
+NXSBNB  ETHBTC
+ENJBNB  ETHBTC
+DATABTC  ETHBTC
+DATAETH  ETHBTC
+ONTUSDT  ETHBTC
+TRXBNB  ETHBTC
+TRXUSDT  ETHBTC
+ETCUSDT  ETHBTC
+ETCBNB  ETHBTC
+ICXUSDT  ETHBTC
+SCBTC  ETHBTC
+SCETH  ETHBTC
+SCBNB  ETHBTC
+NPXSBTC  ETHBTC
+NPXSETH  ETHBTC
+VENUSDT  ETHBTC
+KEYBTC  ETHBTC
+KEYETH  ETHBTC
+NASBTC  ETHBTC
+NASETH  ETHBTC
+NASBNB  ETHBTC
+MFTBTC  ETHBTC
+MFTETH  ETHBTC
+MFTBNB  ETHBTC
+DENTBTC  ETHBTC
+DENTETH  ETHBTC
+ARDRBTC  ETHBTC
+ARDRETH  ETHBTC
+ARDRBNB  ETHBTC
+NULSUSDT  ETHBTC
+HOTBTC  ETHBTC
+HOTETH  ETHBTC
+VETBTC  ETHBTC
+VETETH  ETHBTC
+VETUSDT  ETHBTC
+VETBNB  ETHBTC
+DOCKBTC  ETHBTC
+DOCKETH  ETHBTC
+POLYBTC  ETHBTC
+POLYBNB  ETHBTC
+PHXBTC  ETHBTC
+PHXETH  ETHBTC
+PHXBNB  ETHBTC
+HCBTC  ETHBTC
+HCETH  ETHBTC
+GOBTC  ETHBTC
+GOBNB  ETHBTC
+PAXBTC  ETHBTC
+PAXBNB  ETHBTC
+PAXUSDT  ETHBTC
+PAXETH  ETHBTC
+RVNBTC  ETHBTC
+RVNBNB  ETHBTC
+DCRBTC  ETHBTC
+DCRBNB  ETHBTC
+MinLot : 0,00000000(0,00000000)   Fee :0.0
+14:04:01.838  method=getInfo&nonce=205554419
+14:04:02.310 --- Error. No balance.  -1,00000000  -1,00000000
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+14:07:02.258  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+14:07:05.258  https://api.binance.com/api/v1/exchangeInfo
+ETHBTC  ETHBTC
+LTCBTC  ETHBTC
+BNBBTC  ETHBTC
+NEOBTC  ETHBTC
+QTUMETH  ETHBTC
+EOSETH  ETHBTC
+SNTETH  ETHBTC
+BNTETH  ETHBTC
+BCCBTC  ETHBTC
+GASBTC  ETHBTC
+BNBETH  ETHBTC
+BTCUSDT  ETHBTC
+ETHUSDT  ETHBTC
+HSRBTC  ETHBTC
+OAXETH  ETHBTC
+DNTETH  ETHBTC
+MCOETH  ETHBTC
+ICNETH  ETHBTC
+MCOBTC  ETHBTC
+WTCBTC  ETHBTC
+WTCETH  ETHBTC
+LRCBTC  ETHBTC
+LRCETH  ETHBTC
+QTUMBTC  ETHBTC
+YOYOBTC  ETHBTC
+OMGBTC  ETHBTC
+OMGETH  ETHBTC
+ZRXBTC  ETHBTC
+ZRXETH  ETHBTC
+STRATBTC  ETHBTC
+STRATETH  ETHBTC
+SNGLSBTC  ETHBTC
+SNGLSETH  ETHBTC
+BQXBTC  ETHBTC
+BQXETH  ETHBTC
+KNCBTC  ETHBTC
+KNCETH  ETHBTC
+FUNBTC  ETHBTC
+FUNETH  ETHBTC
+SNMBTC  ETHBTC
+SNMETH  ETHBTC
+NEOETH  ETHBTC
+IOTABTC  ETHBTC
+IOTAETH  ETHBTC
+LINKBTC  ETHBTC
+LINKETH  ETHBTC
+XVGBTC  ETHBTC
+XVGETH  ETHBTC
+SALTBTC  ETHBTC
+SALTETH  ETHBTC
+MDABTC  ETHBTC
+MDAETH  ETHBTC
+MTLBTC  ETHBTC
+MTLETH  ETHBTC
+SUBBTC  ETHBTC
+SUBETH  ETHBTC
+EOSBTC  ETHBTC
+SNTBTC  ETHBTC
+ETCETH  ETHBTC
+ETCBTC  ETHBTC
+MTHBTC  ETHBTC
+MTHETH  ETHBTC
+ENGBTC  ETHBTC
+ENGETH  ETHBTC
+DNTBTC  ETHBTC
+ZECBTC  ETHBTC
+ZECETH  ETHBTC
+BNTBTC  ETHBTC
+ASTBTC  ETHBTC
+ASTETH  ETHBTC
+DASHBTC  ETHBTC
+DASHETH  ETHBTC
+OAXBTC  ETHBTC
+ICNBTC  ETHBTC
+BTGBTC  ETHBTC
+BTGETH  ETHBTC
+EVXBTC  ETHBTC
+EVXETH  ETHBTC
+REQBTC  ETHBTC
+REQETH  ETHBTC
+VIBBTC  ETHBTC
+VIBETH  ETHBTC
+HSRETH  ETHBTC
+TRXBTC  ETHBTC
+TRXETH  ETHBTC
+POWRBTC  ETHBTC
+POWRETH  ETHBTC
+ARKBTC  ETHBTC
+ARKETH  ETHBTC
+YOYOETH  ETHBTC
+XRPBTC  ETHBTC
+XRPETH  ETHBTC
+MODBTC  ETHBTC
+MODETH  ETHBTC
+ENJBTC  ETHBTC
+ENJETH  ETHBTC
+STORJBTC  ETHBTC
+STORJETH  ETHBTC
+BNBUSDT  ETHBTC
+VENBNB  ETHBTC
+YOYOBNB  ETHBTC
+POWRBNB  ETHBTC
+VENBTC  ETHBTC
+VENETH  ETHBTC
+KMDBTC  ETHBTC
+KMDETH  ETHBTC
+NULSBNB  ETHBTC
+RCNBTC  ETHBTC
+RCNETH  ETHBTC
+RCNBNB  ETHBTC
+NULSBTC  ETHBTC
+NULSETH  ETHBTC
+RDNBTC  ETHBTC
+RDNETH  ETHBTC
+RDNBNB  ETHBTC
+XMRBTC  ETHBTC
+XMRETH  ETHBTC
+DLTBNB  ETHBTC
+WTCBNB  ETHBTC
+DLTBTC  ETHBTC
+DLTETH  ETHBTC
+AMBBTC  ETHBTC
+AMBETH  ETHBTC
+AMBBNB  ETHBTC
+BCCETH  ETHBTC
+BCCUSDT  ETHBTC
+BCCBNB  ETHBTC
+BATBTC  ETHBTC
+BATETH  ETHBTC
+BATBNB  ETHBTC
+BCPTBTC  ETHBTC
+BCPTETH  ETHBTC
+BCPTBNB  ETHBTC
+ARNBTC  ETHBTC
+ARNETH  ETHBTC
+GVTBTC  ETHBTC
+GVTETH  ETHBTC
+CDTBTC  ETHBTC
+CDTETH  ETHBTC
+GXSBTC  ETHBTC
+GXSETH  ETHBTC
+NEOUSDT  ETHBTC
+NEOBNB  ETHBTC
+POEBTC  ETHBTC
+POEETH  ETHBTC
+QSPBTC  ETHBTC
+QSPETH  ETHBTC
+QSPBNB  ETHBTC
+BTSBTC  ETHBTC
+BTSETH  ETHBTC
+BTSBNB  ETHBTC
+XZCBTC  ETHBTC
+XZCETH  ETHBTC
+XZCBNB  ETHBTC
+LSKBTC  ETHBTC
+LSKETH  ETHBTC
+LSKBNB  ETHBTC
+TNTBTC  ETHBTC
+TNTETH  ETHBTC
+FUELBTC  ETHBTC
+FUELETH  ETHBTC
+MANABTC  ETHBTC
+MANAETH  ETHBTC
+BCDBTC  ETHBTC
+BCDETH  ETHBTC
+DGDBTC  ETHBTC
+DGDETH  ETHBTC
+IOTABNB  ETHBTC
+ADXBTC  ETHBTC
+ADXETH  ETHBTC
+ADXBNB  ETHBTC
+ADABTC  ETHBTC
+ADAETH  ETHBTC
+PPTBTC  ETHBTC
+PPTETH  ETHBTC
+CMTBTC  ETHBTC
+CMTETH  ETHBTC
+CMTBNB  ETHBTC
+XLMBTC  ETHBTC
+XLMETH  ETHBTC
+XLMBNB  ETHBTC
+CNDBTC  ETHBTC
+CNDETH  ETHBTC
+CNDBNB  ETHBTC
+LENDBTC  ETHBTC
+LENDETH  ETHBTC
+WABIBTC  ETHBTC
+WABIETH  ETHBTC
+WABIBNB  ETHBTC
+LTCETH  ETHBTC
+LTCUSDT  ETHBTC
+LTCBNB  ETHBTC
+TNBBTC  ETHBTC
+TNBETH  ETHBTC
+WAVESBTC  ETHBTC
+WAVESETH  ETHBTC
+WAVESBNB  ETHBTC
+GTOBTC  ETHBTC
+GTOETH  ETHBTC
+GTOBNB  ETHBTC
+ICXBTC  ETHBTC
+ICXETH  ETHBTC
+ICXBNB  ETHBTC
+OSTBTC  ETHBTC
+OSTETH  ETHBTC
+OSTBNB  ETHBTC
+ELFBTC  ETHBTC
+ELFETH  ETHBTC
+AIONBTC  ETHBTC
+AIONETH  ETHBTC
+AIONBNB  ETHBTC
+NEBLBTC  ETHBTC
+NEBLETH  ETHBTC
+NEBLBNB  ETHBTC
+BRDBTC  ETHBTC
+BRDETH  ETHBTC
+BRDBNB  ETHBTC
+MCOBNB  ETHBTC
+EDOBTC  ETHBTC
+EDOETH  ETHBTC
+WINGSBTC  ETHBTC
+WINGSETH  ETHBTC
+NAVBTC  ETHBTC
+NAVETH  ETHBTC
+NAVBNB  ETHBTC
+LUNBTC  ETHBTC
+LUNETH  ETHBTC
+TRIGBTC  ETHBTC
+TRIGETH  ETHBTC
+TRIGBNB  ETHBTC
+APPCBTC  ETHBTC
+APPCETH  ETHBTC
+APPCBNB  ETHBTC
+VIBEBTC  ETHBTC
+VIBEETH  ETHBTC
+RLCBTC  ETHBTC
+RLCETH  ETHBTC
+RLCBNB  ETHBTC
+INSBTC  ETHBTC
+INSETH  ETHBTC
+PIVXBTC  ETHBTC
+PIVXETH  ETHBTC
+PIVXBNB  ETHBTC
+IOSTBTC  ETHBTC
+IOSTETH  ETHBTC
+CHATBTC  ETHBTC
+CHATETH  ETHBTC
+STEEMBTC  ETHBTC
+STEEMETH  ETHBTC
+STEEMBNB  ETHBTC
+NANOBTC  ETHBTC
+NANOETH  ETHBTC
+NANOBNB  ETHBTC
+VIABTC  ETHBTC
+VIAETH  ETHBTC
+VIABNB  ETHBTC
+BLZBTC  ETHBTC
+BLZETH  ETHBTC
+BLZBNB  ETHBTC
+AEBTC  ETHBTC
+AEETH  ETHBTC
+AEBNB  ETHBTC
+RPXBTC  ETHBTC
+RPXETH  ETHBTC
+RPXBNB  ETHBTC
+NCASHBTC  ETHBTC
+NCASHETH  ETHBTC
+NCASHBNB  ETHBTC
+POABTC  ETHBTC
+POAETH  ETHBTC
+POABNB  ETHBTC
+ZILBTC  ETHBTC
+ZILETH  ETHBTC
+ZILBNB  ETHBTC
+ONTBTC  ETHBTC
+ONTETH  ETHBTC
+ONTBNB  ETHBTC
+STORMBTC  ETHBTC
+STORMETH  ETHBTC
+STORMBNB  ETHBTC
+QTUMBNB  ETHBTC
+QTUMUSDT  ETHBTC
+XEMBTC  ETHBTC
+XEMETH  ETHBTC
+XEMBNB  ETHBTC
+WANBTC  ETHBTC
+WANETH  ETHBTC
+WANBNB  ETHBTC
+WPRBTC  ETHBTC
+WPRETH  ETHBTC
+QLCBTC  ETHBTC
+QLCETH  ETHBTC
+SYSBTC  ETHBTC
+SYSETH  ETHBTC
+SYSBNB  ETHBTC
+QLCBNB  ETHBTC
+GRSBTC  ETHBTC
+GRSETH  ETHBTC
+ADAUSDT  ETHBTC
+ADABNB  ETHBTC
+CLOAKBTC  ETHBTC
+CLOAKETH  ETHBTC
+GNTBTC  ETHBTC
+GNTETH  ETHBTC
+GNTBNB  ETHBTC
+LOOMBTC  ETHBTC
+LOOMETH  ETHBTC
+LOOMBNB  ETHBTC
+XRPUSDT  ETHBTC
+BCNBTC  ETHBTC
+BCNETH  ETHBTC
+BCNBNB  ETHBTC
+REPBTC  ETHBTC
+REPETH  ETHBTC
+REPBNB  ETHBTC
+TUSDBTC  ETHBTC
+TUSDETH  ETHBTC
+TUSDBNB  ETHBTC
+ZENBTC  ETHBTC
+ZENETH  ETHBTC
+ZENBNB  ETHBTC
+SKYBTC  ETHBTC
+SKYETH  ETHBTC
+SKYBNB  ETHBTC
+EOSUSDT  ETHBTC
+EOSBNB  ETHBTC
+CVCBTC  ETHBTC
+CVCETH  ETHBTC
+CVCBNB  ETHBTC
+THETABTC  ETHBTC
+THETAETH  ETHBTC
+THETABNB  ETHBTC
+XRPBNB  ETHBTC
+TUSDUSDT  ETHBTC
+IOTAUSDT  ETHBTC
+XLMUSDT  ETHBTC
+IOTXBTC  ETHBTC
+IOTXETH  ETHBTC
+QKCBTC  ETHBTC
+QKCETH  ETHBTC
+AGIBTC  ETHBTC
+AGIETH  ETHBTC
+AGIBNB  ETHBTC
+NXSBTC  ETHBTC
+NXSETH  ETHBTC
+NXSBNB  ETHBTC
+ENJBNB  ETHBTC
+DATABTC  ETHBTC
+DATAETH  ETHBTC
+ONTUSDT  ETHBTC
+TRXBNB  ETHBTC
+TRXUSDT  ETHBTC
+ETCUSDT  ETHBTC
+ETCBNB  ETHBTC
+ICXUSDT  ETHBTC
+SCBTC  ETHBTC
+SCETH  ETHBTC
+SCBNB  ETHBTC
+NPXSBTC  ETHBTC
+NPXSETH  ETHBTC
+VENUSDT  ETHBTC
+KEYBTC  ETHBTC
+KEYETH  ETHBTC
+NASBTC  ETHBTC
+NASETH  ETHBTC
+NASBNB  ETHBTC
+MFTBTC  ETHBTC
+MFTETH  ETHBTC
+MFTBNB  ETHBTC
+DENTBTC  ETHBTC
+DENTETH  ETHBTC
+ARDRBTC  ETHBTC
+ARDRETH  ETHBTC
+ARDRBNB  ETHBTC
+NULSUSDT  ETHBTC
+HOTBTC  ETHBTC
+HOTETH  ETHBTC
+VETBTC  ETHBTC
+VETETH  ETHBTC
+VETUSDT  ETHBTC
+VETBNB  ETHBTC
+DOCKBTC  ETHBTC
+DOCKETH  ETHBTC
+POLYBTC  ETHBTC
+POLYBNB  ETHBTC
+PHXBTC  ETHBTC
+PHXETH  ETHBTC
+PHXBNB  ETHBTC
+HCBTC  ETHBTC
+HCETH  ETHBTC
+GOBTC  ETHBTC
+GOBNB  ETHBTC
+PAXBTC  ETHBTC
+PAXBNB  ETHBTC
+PAXUSDT  ETHBTC
+PAXETH  ETHBTC
+RVNBTC  ETHBTC
+RVNBNB  ETHBTC
+DCRBTC  ETHBTC
+DCRBNB  ETHBTC
+MinLot : 0,00000000(0,00000000)   Fee :0.0
+14:07:09.694  method=getInfo&nonce=205556297
+14:07:10.170 --- Error. No balance.  -1,00000000  -1,00000000
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+14:08:21.606  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+14:08:24.606  https://api.binance.com/api/v1/exchangeInfo
+filters  ETHBTC  ETHBTC
+filterType  
+minPrice  
+maxPrice  
+tickSize  
+filterType  
+minQty  
+maxQty  
+stepSize  
+filterType  
+minNotional  
+filterType  
+limit  
+filterType  
+maxNumAlgoOrders  
+MinLot : 0,00100000(0,03202870)   Fee :0.0
+14:08:26.329  method=getInfo&nonce=205557064
+14:08:27.043 --- Error. No balance.  -1,00000000  -1,00000000
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+14:15:57.557  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+14:16:00.557  https://api.binance.com/api/v1/exchangeInfo
+filters  ETHBTC  ETHBTC
+MinLot : 0,00100000(0,03202152)   Fee :0.0
+Signature: RequestUrl = {}/api/v3/account
+Signature: query to be included  = {} queryToAdd={}recvWindow=7000&timestamp=1540466163557recvWindow=7000&timestamp=1540466163557
+14:16:03.615 --- Error. No balance.  -1,00000000  -1,00000000
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+14:23:01.176  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+14:23:04.175  https://api.binance.com/api/v1/exchangeInfo
+filters  ETHBTC  ETHBTC
+MinLot : 0,00100000(0,03203793)   Fee :0.0
+Signature: RequestUrl = {}/api/v3/account
+Signature: query to be included  = {} queryToAdd={}recvWindow=7000&timestamp=1540466587175recvWindow=7000&timestamp=1540466587175
+Signature: RequestUrl = {}/api/v3/account?recvWindow=7000&timestamp=1540466587175&signature=209eb3c72fbda278e33de0d7b17ae7cc482495d34136ff234e48b48e35b87dfa
+14:23:07.228 --- Error. No balance.  -1,00000000  -1,00000000
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+14:24:52.235  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+14:24:55.234  https://api.binance.com/api/v1/exchangeInfo
+filters  ETHBTC  ETHBTC
+MinLot : 0,00100000(0,03203691)   Fee :0.0
+Signature: RequestUrl = {}https://api.binance.com/api/v3/account
+Signature: query to be included  = {} queryToAdd={}recvWindow=7000&timestamp=1540466698234recvWindow=7000&timestamp=1540466698234
+Signature: RequestUrl = {}https://api.binance.com/api/v3/account?recvWindow=7000&timestamp=1540466698234&signature=5301a8375faef355a1bce6e180cf97e3c67b8f907d1a5e99103071e6ea0ef383
+14:24:58.234  method=https://api.binance.com/api/v3/account&nonce=205566983
+14:24:58.781 --- Error. No balance.  -1,00000000  -1,00000000
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+14:40:24.353  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+14:40:27.354  https://api.binance.com/api/v1/exchangeInfo
+filters  ETHBTC  ETHBTC
+MinLot : 0,00100000(0,03200205)   Fee :0.0
+Signature: RequestUrl = {}https://api.binance.com/api/v3/account
+Signature: query to be included  = {recvWindow=5000&timestamp=1540467630354} queryToAdd={recvWindow=5000&timestamp=1540467630354}
+Signature: RequestUrl = {}https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540467630354&signature=480dace98e648ae0bab7a34f9daf9b89036f96a20263062bb5dbc64df1c49620
+14:40:30.354  recvWindow=5000&timestamp=1540467630417
+14:40:30.910 --- Error. No balance.  -1,00000000  -1,00000000
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+14:42:46.075  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+14:42:49.074  https://api.binance.com/api/v1/exchangeInfo
+filters  ETHBTC  ETHBTC
+MinLot : 0,00100000(0,03200717)   Fee :0.0
+Signature: RequestUrl = {https://api.binance.com/api/v3/account}
+Signature: query to be included  = {recvWindow=5000&timestamp=1540467772074} queryToAdd={recvWindow=5000&timestamp=1540467772074}
+Signature: RequestUrl = {https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540467772074&signature=43ca70075632003f738054c5ee6c5392a26c9bb79a6ee62f89f77734ba6d9056}
+14:42:52.074 post : recvWindow=5000&timestamp=1540467772074
+14:42:52.634 --- Error. No balance.  -1,00000000  -1,00000000
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+14:58:27.622  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+14:58:30.623  https://api.binance.com/api/v1/exchangeInfo
+filters  ETHBTC  ETHBTC
+MinLot : 0,00100000(0,03203280)   Fee :0.0
+Signature: RequestUrl = {https://api.binance.com/api/v3/account}
+Signature: query to be included  = {recvWindow=5000&timestamp=1540468713623} queryToAdd={recvWindow=5000&timestamp=1540468713623}
+Signature: RequestUrl = {https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540468713623&signature=dcbc415d9838d80b34d37b3d2cd0e710ec1dff09bb4bbd236f4a901b3a305976}
+14:58:33.623 post : recvWindow=5000&timestamp=1540468713623
+404
+14:58:37.223 --- Error. No balance.  -1,00000000  -1,00000000
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+15:05:57.006  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+15:06:00.006  https://api.binance.com/api/v1/exchangeInfo
+filters  ETHBTC  ETHBTC
+MinLot : 0,00100000(0,03201127)   Fee :0.0
+Signature: RequestUrl = {https://api.binance.com/api/v3/account}
+Signature: query to be included  = {recvWindow=5000&timestamp=1540469163007} queryToAdd={recvWindow=5000&timestamp=1540469163007}
+Signature: RequestUrl = {https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540469163007&signature=8ae49c02286eac7815e11b06426fb481ca497e1c2dc0c881c1612cc9ede18baf}
+15:06:03.007 post : recvWindow=5000&timestamp=1540469163007
+404
+15:06:04.105 --- Error. No balance.  -1,00000000  -1,00000000
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+15:13:39.154  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+15:13:42.154  https://api.binance.com/api/v1/exchangeInfo
+filters  ETHBTC  ETHBTC
+MinLot : 0,00100000(0,03203178)   Fee :0.0
+Signature: RequestUrl = {https://api.binance.com/api/v3/account}
+Signature: query to be included  = {recvWindow=5000&timestamp=1540469625154} queryToAdd={recvWindow=5000&timestamp=1540469625154}
+Signature: RequestUrl = {https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540469625154&signature=f8611eec6ef2d38efc02ec234b620d15862630771ca4e55632c0f231a4d4634a}
+{} {}https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540469625154&signature=f8611eec6ef2d38efc02ec234b620d15862630771ca4e55632c0f231a4d4634a
+15:13:45.154 post : recvWindow=5000&timestamp=1540469625154
+404
+15:13:45.937 --- Error. No balance.  -1,00000000  -1,00000000
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+15:17:21.137  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+15:17:24.138  https://api.binance.com/api/v1/exchangeInfo
+filters  ETHBTC  ETHBTC
+MinLot : 0,00100000(0,03202665)   Fee :0.0
+Signature: RequestUrl = {https://api.binance.com/api/v3/account}
+Signature: query to be included  = {recvWindow=5000&timestamp=1540469847138} queryToAdd={recvWindow=5000&timestamp=1540469847138}
+Signature: RequestUrl = {https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540469847138&signature=8142b3e30a74a529431b961b3537b2ecdc7fc97ae35cb25e66522b9638a73e3d}
+{} {}https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540469847138&signature=8142b3e30a74a529431b961b3537b2ecdc7fc97ae35cb25e66522b9638a73e3d
+15:17:27.138 post : recvWindow=5000&timestamp=1540469847138
+404
+15:17:27.763 --- Error. No balance.  -1,00000000  -1,00000000
+15:39:11.529 --- Start trade on BUY
+15:39:11.565  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=10
+15:39:12.897 --- Stop trade on BUY
+15:39:14.565  https://api.binance.com/api/v1/exchangeInfo
+filters  ETHBTC  ETHBTC
+MinLot : 0,00100000(0,03201639)   Fee :0.0
+Signature: RequestUrl = {https://api.binance.com/api/v3/account}
+Signature: query to be included  = {recvWindow=5000&timestamp=1540471157565} queryToAdd={recvWindow=5000&timestamp=1540471157565}
+Signature: RequestUrl = {https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540471157565&signature=3a48d7f3239464ef2b9b9afbd5ba6a3013c278f868b5205e7312064fa8d4208b}
+{} {}https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540471157565&signature=3a48d7f3239464ef2b9b9afbd5ba6a3013c278f868b5205e7312064fa8d4208b
+15:39:17.565 post : recvWindow=5000&timestamp=1540471157565
+404
+Response: {lastResponse}
+15:39:18.329 --- Error. No balance.  -1,00000000  -1,00000000
+15:39:18.344  method=ActiveOrders&nonce=205611584&pair=ETHBTC
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+15:40:06.413  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+15:40:09.413  https://api.binance.com/api/v1/exchangeInfo
+filters  ETHBTC  ETHBTC
+MinLot : 0,00100000(0,03203280)   Fee :0.0
+Signature: RequestUrl = {https://api.binance.com/api/v3/account}
+Signature: query to be included  = {recvWindow=5000&timestamp=1540471212414} queryToAdd={recvWindow=5000&timestamp=1540471212414}
+Signature: RequestUrl = {https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540471212414&signature=5d9c73e86b1ce9a3dde181373b70f06e71ec47fc4051dd341a75e53c1a20e1e4}
+{} {}https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540471212414&signature=5d9c73e86b1ce9a3dde181373b70f06e71ec47fc4051dd341a75e53c1a20e1e4
+15:40:12.414 post : recvWindow=5000&timestamp=1540471212414
+404
+Response: {<html><body><h2>404 Not found</h2></body></html>}
+15:40:12.996 --- Error. No balance.  -1,00000000  -1,00000000
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+15:48:03.103  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+15:48:06.104  https://api.binance.com/api/v1/exchangeInfo
+filters  ETHBTC  ETHBTC
+MinLot : 0,00100000(0,03203896)   Fee :0.0
+Signature: RequestUrl = {https://api.binance.com/api/v3/account}
+Signature: query to be included  = {recvWindow=5000&timestamp=1540471689104} queryToAdd={recvWindow=5000&timestamp=1540471689104}
+Signature: RequestUrl = {https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540471689104&signature=b045111752b1d9a0eded0b21d8559fd73f2b67bcb67d9369d1313282ea6ef475}
+{} {}https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540471689104&signature=b045111752b1d9a0eded0b21d8559fd73f2b67bcb67d9369d1313282ea6ef475
+15:48:09.104 post : recvWindow=5000&timestamp=1540471689104
+404
+Response: {<html><body><h2>404 Not found</h2></body></html>}
+15:48:09.694 --- Error. No balance.  -1,00000000  -1,00000000
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+15:54:03.199  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+15:54:06.200  https://api.binance.com/api/v1/exchangeInfo
+filters  ETHBTC  ETHBTC
+MinLot : 0,00100000(0,03203178)   Fee :0.0
+Signature: RequestUrl = {https://api.binance.com/api/v3/account}
+Signature: query to be included  = {recvWindow=5000&timestamp=1540472049200} queryToAdd={recvWindow=5000&timestamp=1540472049200}
+Signature: RequestUrl = {https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540472049200&signature=69143aae78d507114acc64c22d618be1505433e18b43c95fba0ff87661562976}
+{} {}https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540472049200&signature=69143aae78d507114acc64c22d618be1505433e18b43c95fba0ff87661562976
++consun.net.www.protocol.https.DelegateHttpsURLConnection:https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540472049200&signature=69143aae78d507114acc64c22d618be1505433e18b43c95fba0ff87661562976
+15:54:09.200 post : recvWindow=5000&timestamp=1540472049200
+404
+Response: {<html><body><h2>404 Not found</h2></body></html>}
+15:54:09.800 --- Error. No balance.  -1,00000000  -1,00000000
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+16:00:46.490  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+16:00:49.490  https://api.binance.com/api/v1/exchangeInfo
+filters  ETHBTC  ETHBTC
+MinLot : 0,00100000(0,03202767)   Fee :0.0
+Signature: RequestUrl = {https://api.binance.com/api/v3/account}
+Signature: query to be included  = {recvWindow=5000&timestamp=1540472452490} queryToAdd={recvWindow=5000&timestamp=1540472452490}
+Signature: RequestUrl = {https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540472452490&signature=3eca4590d2deff5f7826feb6d37607c36a28b99a7a8550fa519050951cb6090d}
+{} {}https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540472452490&signature=3eca4590d2deff5f7826feb6d37607c36a28b99a7a8550fa519050951cb6090d
+con : sun.net.www.protocol.https.DelegateHttpsURLConnection:https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540472452490&signature=3eca4590d2deff5f7826feb6d37607c36a28b99a7a8550fa519050951cb6090d
+16:00:52.490 post : recvWindow=5000&timestamp=1540472452490
+404
+Response: {<html><body><h2>404 Not found</h2></body></html>}
+16:00:53.136 --- Error. No balance.  -1,00000000  -1,00000000
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+16:46:33.582  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+16:46:36.569  https://api.binance.com/api/v1/exchangeInfo
+filters  ETHBTC  ETHBTC
+MinLot : 0,00100000(0,03200307)   Fee :0.0
+Signature: RequestUrl = {https://api.binance.com/api/v3/account}
+Signature: query to be included  = {recvWindow=5000&timestamp=1540475199569} queryToAdd={recvWindow=5000&timestamp=1540475199569}
+Signature: RequestUrl = {https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540475199569&signature=a6a976075523fc5a86b54619af82628c7c041c2dda236e1385bb82fd811b41d8}
+{} {}https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540475199569&signature=a6a976075523fc5a86b54619af82628c7c041c2dda236e1385bb82fd811b41d8
+con : sun.net.www.protocol.https.DelegateHttpsURLConnection:https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540475199569&signature=a6a976075523fc5a86b54619af82628c7c041c2dda236e1385bb82fd811b41d8
+16:46:39.569 post : recvWindow=5000&timestamp=1540475199569
+404
+Response: {<html><body><h2>404 Not found</h2></body></html>}
+16:46:40.235 --- Error. No balance.  -1,00000000  -1,00000000
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+17:23:17.650  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+17:23:20.650  https://api.binance.com/api/v1/exchangeInfo
+filters  ETHBTC  ETHBTC
+MinLot : 0,00100000(0,03200819)   Fee :0.0
+17:23:23.650  https://api.binance.com/api/v1/time
+1540477404273  1540477404139
+Signature: RequestUrl = {https://api.binance.com/api/v3/account}
+Signature: query to be included  = {recvWindow=5000&timestamp=1540477406651} queryToAdd={recvWindow=5000&timestamp=1540477406651}
+Signature: RequestUrl = {https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540477406651&signature=53dc2933bb1295b6b9c359006aeae29e66ea4dc61cc8ac7720eff92982d26421}
+{} {}https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540477406651&signature=53dc2933bb1295b6b9c359006aeae29e66ea4dc61cc8ac7720eff92982d26421
+con : sun.net.www.protocol.https.DelegateHttpsURLConnection:https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540477406651&signature=53dc2933bb1295b6b9c359006aeae29e66ea4dc61cc8ac7720eff92982d26421
+17:23:26.651 post : recvWindow=5000&timestamp=1540477406651
+404
+Response: {<html><body><h2>404 Not found</h2></body></html>}
+17:23:27.238 --- Error. No balance.  -1,00000000  -1,00000000
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+17:29:58.456  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+17:30:01.456  https://api.binance.com/api/v1/exchangeInfo
+filters  ETHBTC  ETHBTC
+MinLot : 0,00100000(0,03201742)   Fee :0.0
+Signature: RequestUrl = {https://api.binance.com/api/v3/account}
+Signature: query to be included  = {recvWindow=5000&timestamp=1540477804456} queryToAdd={recvWindow=5000&timestamp=1540477804456}
+Signature: RequestUrl = {https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540477804456&signature=c26be510e9b2f5686952949cb6c68513623d844c40d59c49854d1ad054c34d71}
+{} {}https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540477804456&signature=c26be510e9b2f5686952949cb6c68513623d844c40d59c49854d1ad054c34d71
+con : sun.net.www.protocol.https.DelegateHttpsURLConnection:https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540477804456&signature=c26be510e9b2f5686952949cb6c68513623d844c40d59c49854d1ad054c34d71
+17:30:04.456 post : recvWindow=5000&timestamp=1540477804456
+404
+Response: {<html><body><h2>404 Not found</h2></body></html>}
+17:30:05.065 --- Error. No balance.  -1,00000000  -1,00000000
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+17:30:47.124  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+17:30:50.124  https://api.binance.com/api/v1/exchangeInfo
+filters  ETHBTC  ETHBTC
+MinLot : 0,00100000(0,03201127)   Fee :0.0
+Signature: RequestUrl = {https://api.binance.com/api/v3/account}
+Signature: query to be included  = {recvWindow=5000&timestamp=1540477853125} queryToAdd={recvWindow=5000&timestamp=1540477853125}
+Signature: RequestUrl = {https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540477853125&signature=b76b7720a802d622f7332a21b17b3b93d06198b12eadb4a2ac2115ff657d327f}
+{} {}https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540477853125&signature=b76b7720a802d622f7332a21b17b3b93d06198b12eadb4a2ac2115ff657d327f
+con : sun.net.www.protocol.https.DelegateHttpsURLConnection:https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540477853125&signature=b76b7720a802d622f7332a21b17b3b93d06198b12eadb4a2ac2115ff657d327f
+17:30:53.125 post : recvWindow=5000&timestamp=1540477853125
+404
+Response: {<html><body><h2>404 Not found</h2></body></html>}
+17:30:53.854 --- Error. No balance.  -1,00000000  -1,00000000
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+17:34:07.812  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+17:34:10.813  https://api.binance.com/api/v1/exchangeInfo
+filters  ETHBTC  ETHBTC
+MinLot : 0,00100000(0,03202665)   Fee :0.0
+Signature: RequestUrl = {https://api.binance.com/api/v3/account}
+Signature: query to be included  = {recvWindow=5000&timestamp=1540478053814} queryToAdd={recvWindow=5000&timestamp=1540478053814}
+Signature: RequestUrl = {https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540478053814&signature=8c8e5b3cab46aa6ed31fe662cc6d2ee9954ae2a52ae2aaabc43870121b6c8df7}
+{} {}https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540478053814&signature=8c8e5b3cab46aa6ed31fe662cc6d2ee9954ae2a52ae2aaabc43870121b6c8df7
+con : sun.net.www.protocol.https.DelegateHttpsURLConnection:https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540478053814&signature=8c8e5b3cab46aa6ed31fe662cc6d2ee9954ae2a52ae2aaabc43870121b6c8df7
+17:34:13.814 post : recvWindow=5000&timestamp=1540478053814
+404
+Response: {<html><body><h2>404 Not found</h2></body></html>}
+17:34:14.937 --- Error. No balance.  -1,00000000  -1,00000000
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+17:42:43.244  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+17:42:46.243  https://api.binance.com/api/v1/exchangeInfo
+filters  ETHBTC  ETHBTC
+MinLot : 0,00100000(0,03206567)   Fee :0.0
+Signature: RequestUrl = {https://api.binance.com/api/v3/account}
+Signature: query to be included  = {recvWindow=5000&timestamp=1540478569243} queryToAdd={recvWindow=5000&timestamp=1540478569243}
+Signature: RequestUrl = {https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540478569243}
+{} {}https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540478569243
+con : sun.net.www.protocol.https.DelegateHttpsURLConnection:https://api.binance.com/api/v3/account?recvWindow=5000&timestamp=1540478569243
+17:42:49.243 post : recvWindow=5000&timestamp=1540478569243
+404
+Response: {<html><body><h2>404 Not found</h2></body></html>}
+17:42:49.846 --- Error. No balance.  -1,00000000  -1,00000000
+17:43:51.935  method=TradeHistory&nonce=205686320&count=2000&pair=ETHBTC
+Settings :https://api.binance.com  urdala77@gmail.com  ETHBTC  bA94uu30RofQXNAbfpEaylhE88O7uSkjU6wdY9onsqcP7IfWRID6IzadzbKSiqHg  mUSgtSji1CsJuOLtOkRJd4PWn4EHX6GoYdjJIvlsuqJKNNfMgzz6ORsc4fKRG8oC  1  3  
+17:44:00.221  https://api.binance.com/api/v1/depth?symbol=ETHBTC&limit=5
+17:44:03.221  https://api.binance.com/api/v1/exchangeInfo
+filters  ETHBTC  ETHBTC
+MinLot : 0,00100000(0,03207390)   Fee :0.0
+Signature: RequestUrl = {https://api.binance.com/api/v3/account}
+Signature: query to be included  = {recvWindow=5000&timestamp=1540478646221} queryToAdd={recvWindow=5000&timestamp=1540478646221}
+Signature: RequestUrl = {https://api.binance.com/api/v3/account}
+{} {}https://api.binance.com/api/v3/account
+con : sun.net.www.protocol.https.DelegateHttpsURLConnection:https://api.binance.com/api/v3/account
+17:44:06.221 post : recvWindow=5000&timestamp=1540478646221
+404
+Response: {<html><body><h2>404 Not found</h2></body></html>}
+17:44:06.958 --- Error. No balance.  -1,00000000  -1,00000000

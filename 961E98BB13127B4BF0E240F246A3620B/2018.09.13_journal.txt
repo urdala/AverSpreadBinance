@@ -1,0 +1,642 @@
+Settings :https://yobit.net  urdala77@gmail.com  doge_rur  961E98BB13127B4BF0E240F246A3620B  e47fcb621d309bb1e7b7835e13fe6635  1  5  
+00:03:20.322 --- Start trade on BUY
+00:03:20.884  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:03:25.885  method=getInfo&nonce=168762059
+00:03:30.886  https://yobit.net/api/3/depth/doge_btc-usd_rur-doge_usd-doge_rur-btc_rur-btc_usd?limit=1
+00:03:35.886  method=ActiveOrders&nonce=168762159&pair=doge_rur
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,00000000 (0,00000000) Lock : 0,00000000 (0,00000000) Last : 0,00000000 (0,00000000) 
+00:03:36.532 Open first BUY order. Volume :1,51464062  Price : 0,46506002
+00:03:40.888  method=Trade&nonce=168762209&amount=1.51464062&rate=0.46506002&type=buy&pair=doge_rur
+received : 0,00000000__remains : 1,51464062__order_id : 1500081212823093__doge  42,96088768__rur  35,41686171__
+00:03:45.888  method=getInfo&nonce=168762259
+00:03:50.889  https://yobit.net/api/3/depth/doge_btc-usd_rur-doge_usd-doge_rur-btc_rur-btc_usd?limit=1
+00:03:55.889  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:04:00.889  method=ActiveOrders&nonce=168762409&pair=doge_rur
+doge_rur  buy  1.51464062  0.46506002  1536786199  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,00000000 (0,00000000) Lock : 0,00000000 (0,00000000) Last : 0,00000000 (0,00000000) 
+00:04:05.890  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:04:10.890  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:04:15.891  method=ActiveOrders&nonce=168762559&pair=doge_rur
+doge_rur  buy  1.51464062  0.46506002  1536786199  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,00000000 (0,00000000) Lock : 0,00000000 (0,00000000) Last : 0,00000000 (0,00000000) 
+00:04:20.892  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:04:25.893  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:04:30.894  method=ActiveOrders&nonce=168762709&pair=doge_rur
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,00000000 (0,00000000) Lock : 0,00000000 (0,00000000) Last : 0,00000000 (0,00000000) 
+00:04:35.895  method=OrderInfo&nonce=168762759&order_id=1500081212823093
+pair : doge_rur__type : buy__start_amount : 1.51464062__amount : 0__rate : 0.46506002__timestamp_created : 1536786199__status : 1__
+00:04:36.110 --- Order was closed - Volume :1,51464062  Rate :0,46506002
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+00:04:40.896  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:04:45.896  method=ActiveOrders&nonce=168762859&pair=doge_rur
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+00:04:50.896  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:04:55.486 --- Start trade on SELL
+00:04:55.896  method=getInfo&nonce=168762959
+00:05:00.897  https://yobit.net/api/3/depth/doge_btc-usd_rur-doge_usd-doge_rur-btc_rur-btc_usd?limit=1
+00:05:05.898  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:05:10.899  method=ActiveOrders&nonce=168763109&pair=doge_rur
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,00000000 (0,00000000) Lock : 0,00000000 (0,00000000) Last : 0,00000000 (0,00000000) 
+00:05:12.326 Open first SELL order. Volume :0,75730961  Price : 0,46533135
+00:05:15.900  method=Trade&nonce=168763160&amount=0.75730961&rate=0.46533135&type=sell&pair=doge_rur
+received : 0,00000000__remains : 0,75730961__order_id : 2500081212824906__doge  43,71821869__rur  35,41686171__
+00:05:20.902  method=getInfo&nonce=168763210
+00:05:25.903  https://yobit.net/api/3/depth/doge_btc-usd_rur-doge_usd-doge_rur-btc_rur-btc_usd?limit=1
+00:05:30.311 --- Stop trade on SELL
+00:05:33.602 --- Stop trade on BUY
+0
+unlim
+00:14:18.424 --- Start trade on BUY
+00:14:18.460  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:14:23.460  method=getInfo&nonce=168768635
+00:14:28.461  https://yobit.net/api/3/depth/?limit=1
+00:14:33.462  https://yobit.net/api/3/info
+MinLot : 0,00010000(0,00021543)   Fee :0.2
+00:14:38.463  method=ActiveOrders&nonce=168768785&pair=doge_rur
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+00:14:38.860 Open grid BUY order. Volume :1,51394344  Price : 0,46419749
+00:14:43.464  method=Trade&nonce=168768835&amount=1.51394344&rate=0.46419749&type=buy&pair=doge_rur
+received : 0,00000000__remains : 1,51394344__order_id : 1500081212835069__doge  43,71821869__rur  35,06438255__
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+00:14:48.465  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:14:53.466  method=ActiveOrders&nonce=168768935&pair=doge_rur
+doge_rur  buy  1.51394344  0.46419749  1536786862  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+00:14:58.466  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:15:03.466  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:15:08.467  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:15:13.469  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:15:18.470  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:15:23.472  method=ActiveOrders&nonce=168769235&pair=doge_rur
+doge_rur  buy  1.51394344  0.46419749  1536786862  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+00:15:28.473  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:15:33.474  method=getInfo&nonce=168769335
+00:15:38.474  https://yobit.net/api/3/depth/doge_btc-usd_rur-doge_usd-doge_rur-btc_rur-btc_usd?limit=1
+00:15:43.475  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:15:48.476  method=ActiveOrders&nonce=168769485&pair=doge_rur
+doge_rur  buy  1.51394344  0.46419749  1536786862  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+00:15:53.477  method=CancelOrder&nonce=168769535&order_id=1500081212835069
+1500081212835069
+00:15:58.478  method=OrderInfo&nonce=168769585&order_id=1500081212835069
+pair : doge_rur__type : buy__start_amount : 1.51394344__amount : 1.51394344__rate : 0.46419749__timestamp_created : 1536786862__status : 2__
+00:15:58.683 Replace BUY order up1. Volume :1,51394342(1,51394344)  Price : 0,46419751(0,46419749)
+00:16:03.479  method=Trade&nonce=168769635&amount=1.51394342&rate=0.46419751&type=buy&pair=doge_rur
+received : 0,00000000__remains : 1,51394342__order_id : 1500081212836357__doge  43,71821869__rur  35,06438253__
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+00:16:08.480  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:16:13.480  method=ActiveOrders&nonce=168769735&pair=doge_rur
+doge_rur  buy  1.51394342  0.46419751  1536786942  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+00:16:18.481  method=CancelOrder&nonce=168769785&order_id=1500081212836357
+1500081212836357
+00:16:23.482  method=OrderInfo&nonce=168769835&order_id=1500081212836357
+pair : doge_rur__type : buy__start_amount : 1.51394342__amount : 1.51394342__rate : 0.46419751__timestamp_created : 1536786942__status : 2__
+00:16:23.756 Replace BUY order up2. Volume :1,51394342(1,51394342)  Price : 0,46419752(0,46419751)
+00:16:28.483  method=Trade&nonce=168769885&amount=1.51394342&rate=0.46419752&type=buy&pair=doge_rur
+received : 0,00000000__remains : 1,51394342__order_id : 1500081212836794__doge  43,71821869__rur  35,06438251__
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+00:16:33.483  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:16:38.484  method=ActiveOrders&nonce=168769985&pair=doge_rur
+doge_rur  buy  1.51394342  0.46419752  1536786967  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+00:16:43.485  method=CancelOrder&nonce=168770035&order_id=1500081212836794
+1500081212836794
+00:16:48.486  method=OrderInfo&nonce=168770085&order_id=1500081212836794
+pair : doge_rur__type : buy__start_amount : 1.51394342__amount : 1.51394342__rate : 0.46419752__timestamp_created : 1536786967__status : 2__
+00:16:48.747 Replace BUY order up2. Volume :1,51394342(1,51394342)  Price : 0,46419753(0,46419752)
+00:16:53.487  method=Trade&nonce=168770135&amount=1.51394342&rate=0.46419753&type=buy&pair=doge_rur
+received : 0,00000000__remains : 1,51394342__order_id : 1500081212837280__doge  43,71821869__rur  35,06438250__
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+00:16:58.487  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:17:03.488  method=getInfo&nonce=168770235
+00:17:08.489  https://yobit.net/api/3/depth/doge_btc-usd_rur-doge_usd-doge_rur-btc_rur-btc_usd?limit=1
+00:17:13.490  method=ActiveOrders&nonce=168770335&pair=doge_rur
+doge_rur  buy  1.51394342  0.46419753  1536786992  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+00:17:18.491  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:17:23.492  method=ActiveOrders&nonce=168770435&pair=doge_rur
+doge_rur  buy  1.51394342  0.46419753  1536786992  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+00:17:28.493  method=CancelOrder&nonce=168770485&order_id=1500081212837280
+1500081212837280
+00:17:33.494  method=OrderInfo&nonce=168770535&order_id=1500081212837280
+pair : doge_rur__type : buy__start_amount : 1.51394342__amount : 1.51394342__rate : 0.46419753__timestamp_created : 1536786992__status : 2__
+00:17:33.718 Replace BUY order up1. Volume :1,51213539(1,51394342)  Price : 0,46419755(0,46419753)
+00:17:38.495  method=Trade&nonce=168770585&amount=1.51213539&rate=0.46419755&type=buy&pair=doge_rur
+received : 0,00000000__remains : 1,51213539__order_id : 1500081212838123__doge  43,71821869__rur  35,06522343__
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+00:17:43.496  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:17:48.497  method=ActiveOrders&nonce=168770685&pair=doge_rur
+doge_rur  buy  1.51213539  0.46419755  1536787037  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+00:17:53.497  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:17:58.498  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:18:01.459 --- Start trade on SELL
+00:18:03.499  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:18:08.500  method=ActiveOrders&nonce=168770886&pair=doge_rur
+doge_rur  buy  1.51213539  0.46419755  1536787037  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,00000000 (0,00000000) Lock : 0,00000000 (0,00000000) Last : 0,00000000 (0,00000000) 
+00:18:13.501  method=OrderInfo&nonce=168770936&order_id=2500081212824906
+pair : doge_rur__type : sell__start_amount : 0.75730961__amount : 0__rate : 0.46533135__timestamp_created : 1536786295__status : 1__
+00:18:13.695 --- Order was closed - Volume :0,75730961  Rate :0,46533135
+sell - - - Price : 0,46440068 (0,75730961) Lock : 0,46533135 (0,75730961) Last : 0,46533135 (0,75730961) 
+00:18:18.501  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:18:23.502  method=getInfo&nonce=168771036
+00:18:28.503  https://yobit.net/api/3/depth/doge_btc-usd_rur-doge_usd-doge_rur-btc_rur-btc_usd?limit=1
+00:18:33.503  method=ActiveOrders&nonce=168771136&pair=doge_rur
+doge_rur  buy  1.51213539  0.46419755  1536787037  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+00:18:38.504  method=CancelOrder&nonce=168771186&order_id=1500081212838123
+1500081212838123
+00:18:43.505  method=OrderInfo&nonce=168771236&order_id=1500081212838123
+pair : doge_rur__type : buy__start_amount : 1.51213539__amount : 1.51213539__rate : 0.46419755__timestamp_created : 1536787037__status : 2__
+00:18:43.729 Replace BUY order up1. Volume :1,51236591(1,51213539)  Price : 0,46419757(0,46419755)
+00:18:48.506  method=Trade&nonce=168771286&amount=1.51236591&rate=0.46419757&type=buy&pair=doge_rur
+received : 0,00000000__remains : 1,51236591__order_id : 1500081212839334__doge  43,71821869__rur  35,06511617__
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46440068 (0,75730961) Lock : 0,46533135 (0,75730961) Last : 0,46533135 (0,75730961) 
+00:18:53.507  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:18:58.508  method=ActiveOrders&nonce=168771386&pair=doge_rur
+doge_rur  buy  1.51236591  0.46419757  1536787108  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+00:19:03.509  method=CancelOrder&nonce=168771436&order_id=1500081212839334
+1500081212839334
+00:19:08.510  method=OrderInfo&nonce=168771486&order_id=1500081212839334
+pair : doge_rur__type : buy__start_amount : 1.51236591__amount : 1.51236591__rate : 0.46419757__timestamp_created : 1536787108__status : 2__
+00:19:08.743 Replace BUY order dn. Volume :1,51236591(1,51236591)  Price : 0,46310002(0,46419757)
+00:19:13.511  method=Trade&nonce=168771536&amount=1.51236591&rate=0.46310002&type=buy&pair=doge_rur
+received : 0,00000000__remains : 1,51236591__order_id : 1500081212839777__doge  43,71821869__rur  35,06677939__
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46440068 (0,75730961) Lock : 0,46533135 (0,75730961) Last : 0,46533135 (0,75730961) 
+00:19:18.513  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:19:23.514  method=ActiveOrders&nonce=168771636&pair=doge_rur
+doge_rur  buy  1.51236591  0.46310002  1536787132  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+00:19:28.515  method=CancelOrder&nonce=168771686&order_id=1500081212839777
+1500081212839777
+00:19:33.516  method=OrderInfo&nonce=168771736&order_id=1500081212839777
+pair : doge_rur__type : buy__start_amount : 1.51236591__amount : 1.51236591__rate : 0.46310002__timestamp_created : 1536787132__status : 2__
+00:19:33.697 Replace BUY order up1. Volume :1,51236591(1,51236591)  Price : 0,46419759(0,46310002)
+00:19:38.517  method=Trade&nonce=168771786&amount=1.51236591&rate=0.46419759&type=buy&pair=doge_rur
+received : 0,00000000__remains : 1,51236591__order_id : 1500081212840212__doge  43,71821869__rur  35,06511614__
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46440068 (0,75730961) Lock : 0,46533135 (0,75730961) Last : 0,46533135 (0,75730961) 
+00:19:43.518  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:19:48.519  method=getInfo&nonce=168771886
+00:19:53.520  https://yobit.net/api/3/depth/doge_btc-usd_rur-doge_usd-doge_rur-btc_rur-btc_usd?limit=1
+00:19:58.520  method=ActiveOrders&nonce=168771986&pair=doge_rur
+doge_rur  buy  1.51236591  0.46419759  1536787157  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46440068 (0,75730961) Lock : 0,46533135 (0,75730961) Last : 0,46533135 (0,75730961) 
+00:20:03.521  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:20:08.522  method=ActiveOrders&nonce=168772086&pair=doge_rur
+doge_rur  buy  1.51236591  0.46419759  1536787157  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46440068 (0,75730961) Lock : 0,46533135 (0,75730961) Last : 0,46533135 (0,75730961) 
+00:20:13.523  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:20:18.524  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:20:23.525  method=ActiveOrders&nonce=168772236&pair=doge_rur
+doge_rur  buy  1.51236591  0.46419759  1536787157  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46440068 (0,75730961) Lock : 0,46533135 (0,75730961) Last : 0,46533135 (0,75730961) 
+00:20:28.526  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:20:33.527  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:20:38.528  method=ActiveOrders&nonce=168772386&pair=doge_rur
+doge_rur  buy  1.51236591  0.46419759  1536787157  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46440068 (0,75730961) Lock : 0,46533135 (0,75730961) Last : 0,46533135 (0,75730961) 
+00:20:43.529  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:20:48.530  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:20:53.531  method=ActiveOrders&nonce=168772536&pair=doge_rur
+doge_rur  buy  1.51236591  0.46419759  1536787157  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46440068 (0,75730961) Lock : 0,46533135 (0,75730961) Last : 0,46533135 (0,75730961) 
+00:20:58.531  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:21:03.532  method=getInfo&nonce=168772636
+00:21:08.533  https://yobit.net/api/3/depth/doge_btc-usd_rur-doge_usd-doge_rur-btc_rur-btc_usd?limit=1
+00:21:13.535  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:21:18.536  method=ActiveOrders&nonce=168772786&pair=doge_rur
+doge_rur  buy  1.51236591  0.46419759  1536787157  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46440068 (0,75730961) Lock : 0,46533135 (0,75730961) Last : 0,46533135 (0,75730961) 
+00:21:23.537  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:21:28.538  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:21:33.538  method=ActiveOrders&nonce=168772936&pair=doge_rur
+doge_rur  buy  1.51236591  0.46419759  1536787157  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46440068 (0,75730961) Lock : 0,46533135 (0,75730961) Last : 0,46533135 (0,75730961) 
+00:21:38.539  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:21:43.540  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:21:48.541  method=ActiveOrders&nonce=168773086&pair=doge_rur
+doge_rur  buy  1.51236591  0.46419759  1536787157  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46440068 (0,75730961) Lock : 0,46533135 (0,75730961) Last : 0,46533135 (0,75730961) 
+00:21:53.541  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:21:58.542  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:22:03.543  method=ActiveOrders&nonce=168773236&pair=doge_rur
+doge_rur  buy  1.51236591  0.46419759  1536787157  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46440068 (0,75730961) Lock : 0,46533135 (0,75730961) Last : 0,46533135 (0,75730961) 
+00:22:08.543  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:22:13.544  method=getInfo&nonce=168773336
+00:22:18.545  https://yobit.net/api/3/depth/doge_btc-usd_rur-doge_usd-doge_rur-btc_rur-btc_usd?limit=1
+00:22:23.546  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:22:28.547  method=ActiveOrders&nonce=168773486&pair=doge_rur
+doge_rur  buy  1.51236591  0.46419759  1536787157  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46440068 (0,75730961) Lock : 0,46533135 (0,75730961) Last : 0,46533135 (0,75730961) 
+00:22:33.548  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:22:38.549  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:22:43.550  method=ActiveOrders&nonce=168773636&pair=doge_rur
+doge_rur  buy  1.51236591  0.46419759  1536787157  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46440068 (0,75730961) Lock : 0,46533135 (0,75730961) Last : 0,46533135 (0,75730961) 
+00:22:48.551  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:22:53.552  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:22:58.553  method=ActiveOrders&nonce=168773786&pair=doge_rur
+doge_rur  buy  1.51236591  0.46419759  1536787157  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46440068 (0,75730961) Lock : 0,46533135 (0,75730961) Last : 0,46533135 (0,75730961) 
+00:23:03.553  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:23:08.554  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:23:13.555  method=ActiveOrders&nonce=168773936&pair=doge_rur
+doge_rur  buy  1.51236591  0.46419759  1536787157  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46440068 (0,75730961) Lock : 0,46533135 (0,75730961) Last : 0,46533135 (0,75730961) 
+00:23:14.025 Open grid SELL order. Volume :0,75628674  Price : 0,46621885
+00:23:18.556  method=Trade&nonce=168773986&amount=0.75628674&rate=0.46621885&type=sell&pair=doge_rur
+received : 0,00000000__remains : 0,75628674__order_id : 2500081212843963__doge  42,96193195__rur  35,06511614__
+sell - - - Price : 0,46440068 (0,75730961) Lock : 0,46533135 (0,75730961) Last : 0,46533135 (0,75730961) 
+00:23:23.557  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:23:28.558  method=getInfo&nonce=168774086
+00:23:33.559  https://yobit.net/api/3/depth/doge_btc-usd_rur-doge_usd-doge_rur-btc_rur-btc_usd?limit=1
+00:23:41.123  method=ActiveOrders&nonce=168774212&pair=doge_rur
+doge_rur  sell  0.75628674  0.46621885  1536787377  0
+doge_rur  buy  1.51236591  0.46419759  1536787157  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46440068 (0,75730961) Lock : 0,46533135 (0,75730961) Last : 0,46533135 (0,75730961) 
+00:23:46.124  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:23:51.125  method=ActiveOrders&nonce=168774312&pair=doge_rur
+doge_rur  sell  0.75628674  0.46621885  1536787377  0
+doge_rur  buy  1.51236591  0.46419759  1536787157  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46440068 (0,75730961) Lock : 0,46533135 (0,75730961) Last : 0,46533135 (0,75730961) 
+00:23:56.125  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:24:01.126  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:24:06.127  method=ActiveOrders&nonce=168774462&pair=doge_rur
+doge_rur  sell  0.75628674  0.46621885  1536787377  0
+doge_rur  buy  1.51236591  0.46419759  1536787157  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+00:24:11.128  method=CancelOrder&nonce=168774512&order_id=1500081212840212
+1500081212840212
+00:24:16.128  method=OrderInfo&nonce=168774562&order_id=1500081212840212
+pair : doge_rur__type : buy__start_amount : 1.51236591__amount : 1.51236591__rate : 0.46419759__timestamp_created : 1536787157__status : 2__
+00:24:16.310 Replace BUY order up1. Volume :1,51255306(1,51236591)  Price : 0,46419761(0,46419759)
+00:24:21.129  method=Trade&nonce=168774612&amount=1.51255306&rate=0.46419761&type=buy&pair=doge_rur
+received : 0,00000000__remains : 1,51255306__order_id : 1500081212844975__doge  42,96193195__rur  35,06502907__
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46440068 (0,75730961) Lock : 0,46533135 (0,75730961) Last : 0,46533135 (0,75730961) 
+00:24:26.131  method=CancelOrder&nonce=168774662&order_id=2500081212843963
+2500081212843963
+00:24:31.132  method=OrderInfo&nonce=168774712&order_id=2500081212843963
+pair : doge_rur__type : sell__start_amount : 0.75628674__amount : 0.75628674__rate : 0.46621885__timestamp_created : 1536787377__status : 2__
+00:24:31.363 Replace SELL order dn1. Volume :0,83304057(0,75628674)  Price : 0,46620998(0,46621885)
+0
+unlim
+00:24:49.001 --- Start trade on BUY
+00:24:49.088  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:24:53.682 --- Start trade on SELL
+00:24:54.087  method=getInfo&nonce=168774941
+00:24:59.088  https://yobit.net/api/3/depth/?limit=1
+00:25:04.088  https://yobit.net/api/3/info
+MinLot : 0,00010000(0,00021543)   Fee :0.2
+00:25:09.089  method=ActiveOrders&nonce=168775091&pair=doge_rur
+doge_rur  buy  1.51255306  0.46419761  1536787440  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+00:25:14.090  method=CancelOrder&nonce=168775141&order_id=1500081212844975
+1500081212844975
+00:25:19.091  method=OrderInfo&nonce=168775191&order_id=1500081212844975
+pair : doge_rur__type : buy__start_amount : 1.51255306__amount : 1.51255306__rate : 0.46419761__timestamp_created : 1536787440__status : 2__
+00:25:19.354 Replace BUY order up1. Volume :1,51258715(1,51255306)  Price : 0,46419763(0,46419761)
+00:25:24.092  method=Trade&nonce=168775241&amount=1.51258715&rate=0.46419763&type=buy&pair=doge_rur
+received : 0,00000000__remains : 1,51258715__order_id : 1500081212845872__doge  43,71821869__rur  35,06501318__
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46440068 (0,75730961) Lock : 0,46533135 (0,75730961) Last : 0,46533135 (0,75730961) 
+00:25:24.899 Open grid SELL order. Volume :0,75629358  Price : 0,46620406
+00:25:29.093  method=Trade&nonce=168775291&amount=0.75629358&rate=0.46620406&type=sell&pair=doge_rur
+received : 0,00000000__remains : 0,75629358__order_id : 2500081212845928__doge  42,96192511__rur  35,06501318__
+sell - - - Price : 0,46440068 (0,75730961) Lock : 0,46533135 (0,75730961) Last : 0,46533135 (0,75730961) 
+00:25:34.094  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:25:39.095  method=ActiveOrders&nonce=168775391&pair=doge_rur
+doge_rur  sell  0.75629358  0.46620406  1536787507  0
+doge_rur  buy  1.51258715  0.46419763  1536787502  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+00:25:44.096  method=CancelOrder&nonce=168775441&order_id=1500081212845872
+1500081212845872
+00:25:49.096  method=OrderInfo&nonce=168775491&order_id=1500081212845872
+pair : doge_rur__type : buy__start_amount : 1.51258715__amount : 1.51258715__rate : 0.46419763__timestamp_created : 1536787502__status : 2__
+00:25:49.349 Replace BUY order up1. Volume :1,51258715(1,51258715)  Price : 0,46424004(0,46419763)
+00:25:54.097  method=Trade&nonce=168775541&amount=1.51258715&rate=0.46424004&type=buy&pair=doge_rur
+received : 0,00000000__remains : 1,51258715__order_id : 1500081212846292__doge  42,96192511__rur  35,06494891__
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46440068 (0,75730961) Lock : 0,46533135 (0,75730961) Last : 0,46533135 (0,75730961) 
+00:25:59.098  method=CancelOrder&nonce=168775591&order_id=2500081212845928
+2500081212845928
+00:26:04.099  method=OrderInfo&nonce=168775641&order_id=2500081212845928
+pair : doge_rur__type : sell__start_amount : 0.75629358__amount : 0.75629358__rate : 0.46620406__timestamp_created : 1536787507__status : 2__
+00:26:04.365 Replace SELL order dn1. Volume :0,83304057(0,75629358)  Price : 0,46619999(0,46620406)
+00:26:09.100  method=Trade&nonce=168775692&amount=0.83304057&rate=0.46619999&type=sell&pair=doge_rur
+received : 0,00000000__remains : 0,83304057__order_id : 2500081212846542__doge  42,88517812__rur  35,06494891__
+sell - - - Price : 0,46440068 (0,75730961) Lock : 0,46533135 (0,75730961) Last : 0,46533135 (0,75730961) 
+00:26:14.101  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:26:19.101  method=getInfo&nonce=168775792
+00:26:24.102  https://yobit.net/api/3/depth/doge_btc-usd_rur-doge_usd-doge_rur-btc_rur-btc_usd?limit=1
+00:26:29.103  method=ActiveOrders&nonce=168775892&pair=doge_rur
+doge_rur  sell  0.83304057  0.46619999  1536787547  0
+doge_rur  buy  1.51258715  0.46424004  1536787532  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+00:26:34.104  method=CancelOrder&nonce=168775942&order_id=1500081212846292
+1500081212846292
+00:26:39.105  method=OrderInfo&nonce=168775992&order_id=1500081212846292
+pair : doge_rur__type : buy__start_amount : 1.51258715__amount : 1.51258715__rate : 0.46424004__timestamp_created : 1536787532__status : 2__
+00:26:39.328 Replace BUY order dn. Volume :1,51329442(1,51258715)  Price : 0,46311001(0,46424004)
+00:26:44.106  method=Trade&nonce=168776042&amount=1.51329442&rate=0.46311001&type=buy&pair=doge_rur
+received : 0,00000000__remains : 1,51329442__order_id : 1500081212847133__doge  42,88517812__rur  35,06633339__
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46440068 (0,75730961) Lock : 0,46533135 (0,75730961) Last : 0,46533135 (0,75730961) 
+00:26:49.107  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:26:54.108  method=ActiveOrders&nonce=168776142&pair=doge_rur
+doge_rur  buy  1.51329442  0.46311001  1536787582  0
+doge_rur  sell  0.83304057  0.46619999  1536787547  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46440068 (0,75730961) Lock : 0,46533135 (0,75730961) Last : 0,46533135 (0,75730961) 
+00:26:59.109  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:27:04.109  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:27:09.109  method=ActiveOrders&nonce=168776292&pair=doge_rur
+doge_rur  buy  1.51329442  0.46311001  1536787582  0
+doge_rur  sell  0.83304057  0.46619999  1536787547  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46440068 (0,75730961) Lock : 0,46533135 (0,75730961) Last : 0,46533135 (0,75730961) 
+Settings :https://yobit.net  urdala77@gmail.com  doge_rur  961E98BB13127B4BF0E240F246A3620B  e47fcb621d309bb1e7b7835e13fe6635  1  5  
+00:27:14.110  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:27:19.111  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:27:24.112  method=ActiveOrders&nonce=168776442&pair=doge_rur
+doge_rur  buy  1.51329442  0.46311001  1536787582  0
+doge_rur  sell  0.83304057  0.46619999  1536787547  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+Settings :https://yobit.net  urdala77@gmail.com  doge_rur  961E98BB13127B4BF0E240F246A3620B  e47fcb621d309bb1e7b7835e13fe6635  1  3  
+00:27:29.113  method=CancelOrder&nonce=168776492&order_id=1500081212847133
+0
+unlim
+00:27:51.647 --- Start trade on BUY
+00:27:51.697  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:27:52.557 --- Start trade on SELL
+00:27:54.697  method=getInfo&nonce=168776747
+00:27:59.896 --- Error. No balance.
+00:27:59.941  https://yobit.net/api/3/info
+MinLot : 0,00010000(0,00021598)   Fee :0.2
+00:28:02.942  method=ActiveOrders&nonce=168776830&pair=doge_rur
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+00:28:05.943  method=OrderInfo&nonce=168776860&order_id=1500081212847133
+pair : doge_rur__type : buy__start_amount : 1.51329442__amount : 1.51329442__rate : 0.46311001__timestamp_created : 1536787582__status : 2__
+00:28:06.143 --- Order was closed - Volume :1,51329442  Rate :0,46311001
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+00:28:06.234 Open grid BUY order. Volume :0,00000000  Price : 0,46300001
+00:28:08.944  method=Trade&nonce=168776890&amount=0.00000000&rate=0.46300001&type=buy&pair=doge_rur
+Total transaction amount is less than minimal total: 0.10000000  3
+
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46440068 (0,75730961) Lock : 0,46533135 (0,75730961) Last : 0,46533135 (0,75730961) 
+00:28:11.945  method=OrderInfo&nonce=168776920&order_id=2500081212846542
+pair : doge_rur__type : sell__start_amount : 0.83304057__amount : 0__rate : 0.46619999__timestamp_created : 1536787547__status : 1__
+00:28:12.233 --- Order was closed - Volume :0,83304057  Rate :0,46619999
+sell - - - Price : 0,46485478 (1,59035018) Lock : 0,46578635 (1,59035018) Last : 0,46619999 (0,83304057) 
+00:28:14.945  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:28:17.946  method=getInfo&nonce=168776980
+00:28:20.947  https://yobit.net/api/3/depth/doge_btc-usd_rur-doge_usd-doge_rur-btc_rur-btc_usd?limit=1
+00:28:23.948  method=ActiveOrders&nonce=168777040&pair=doge_rur
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+00:28:24.339 Open grid BUY order. Volume :1,51715519  Price : 0,46300001
+00:28:26.949  method=Trade&nonce=168777070&amount=1.51715519&rate=0.46300001&type=buy&pair=doge_rur
+received : 0,00000000__remains : 1,51715519__order_id : 1500081212849058__doge  42,88517812__rur  36,15614360__
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46485478 (1,59035018) Lock : 0,46578635 (1,59035018) Last : 0,46619999 (0,83304057) 
+00:28:29.950  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:28:32.950  method=ActiveOrders&nonce=168777130&pair=doge_rur
+doge_rur  buy  1.51715519  0.46300001  1536787685  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46485478 (1,59035018) Lock : 0,46578635 (1,59035018) Last : 0,46619999 (0,83304057) 
+00:28:35.950  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:28:38.951  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:28:41.952  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:28:44.953  method=ActiveOrders&nonce=168777250&pair=doge_rur
+doge_rur  buy  1.51715519  0.46300001  1536787685  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46485478 (1,59035018) Lock : 0,46578635 (1,59035018) Last : 0,46619999 (0,83304057) 
+00:28:47.954  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:28:50.955  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:28:53.955  https://yobit.net/api/3/depth/doge_rur?limit=10
+err2 : JsonReader near Ddos, 20-50 mins.
+
+00:28:59.176  method=ActiveOrders&nonce=168777392&pair=doge_rur
+doge_rur  buy  1.51715519  0.46300001  1536787685  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46485478 (1,59035018) Lock : 0,46578635 (1,59035018) Last : 0,46619999 (0,83304057) 
+00:29:02.177  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:29:05.178  method=ActiveOrders&nonce=168777452&pair=doge_rur
+doge_rur  buy  1.51715519  0.46300001  1536787685  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46485478 (1,59035018) Lock : 0,46578635 (1,59035018) Last : 0,46619999 (0,83304057) 
+00:29:08.179  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:29:11.180  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:29:14.181  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:29:17.182  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:29:20.183  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:29:23.184  method=getInfo&nonce=168777632
+00:29:26.185  https://yobit.net/api/3/depth/doge_btc-usd_rur-doge_usd-doge_rur-btc_rur-btc_usd?limit=1
+00:29:29.194  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:29:32.195  method=ActiveOrders&nonce=168777722&pair=doge_rur
+doge_rur  buy  1.51715519  0.46300001  1536787685  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46485478 (1,59035018) Lock : 0,46578635 (1,59035018) Last : 0,46619999 (0,83304057) 
+00:29:35.196  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:29:38.197  method=ActiveOrders&nonce=168777782&pair=doge_rur
+doge_rur  buy  1.51715519  0.46300001  1536787685  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46485478 (1,59035018) Lock : 0,46578635 (1,59035018) Last : 0,46619999 (0,83304057) 
+00:29:41.198  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:29:44.199  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:29:47.200  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:29:50.201  method=ActiveOrders&nonce=168777903&pair=doge_rur
+doge_rur  buy  1.51715519  0.46300001  1536787685  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46485478 (1,59035018) Lock : 0,46578635 (1,59035018) Last : 0,46619999 (0,83304057) 
+00:29:53.201  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:29:56.202  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:29:59.203  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:30:02.204  method=ActiveOrders&nonce=168778023&pair=doge_rur
+doge_rur  buy  1.51715519  0.46300001  1536787685  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46485478 (1,59035018) Lock : 0,46578635 (1,59035018) Last : 0,46619999 (0,83304057) 
+00:30:05.205  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:30:08.206  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:30:11.208  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:30:14.209  method=ActiveOrders&nonce=168778143&pair=doge_rur
+doge_rur  buy  1.51715519  0.46300001  1536787685  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46485478 (1,59035018) Lock : 0,46578635 (1,59035018) Last : 0,46619999 (0,83304057) 
+00:30:17.210  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:30:20.211  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:30:23.212  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:30:26.213  method=ActiveOrders&nonce=168778263&pair=doge_rur
+doge_rur  buy  1.51715519  0.46300001  1536787685  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46485478 (1,59035018) Lock : 0,46578635 (1,59035018) Last : 0,46619999 (0,83304057) 
+00:30:29.213  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:30:32.214  method=getInfo&nonce=168778323
+00:30:35.215  https://yobit.net/api/3/depth/doge_btc-usd_rur-doge_usd-doge_rur-btc_rur-btc_usd?limit=1
+00:30:49.924  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:30:52.925  method=ActiveOrders&nonce=168778530&pair=doge_rur
+doge_rur  buy  1.51715519  0.46300001  1536787685  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46485478 (1,59035018) Lock : 0,46578635 (1,59035018) Last : 0,46619999 (0,83304057) 
+00:30:55.926  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:30:58.927  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:31:01.928  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:31:04.928  method=ActiveOrders&nonce=168778650&pair=doge_rur
+doge_rur  buy  1.51715519  0.46300001  1536787685  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46485478 (1,59035018) Lock : 0,46578635 (1,59035018) Last : 0,46619999 (0,83304057) 
+00:31:07.928  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:31:10.929  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:31:13.930  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:31:16.932  method=ActiveOrders&nonce=168778770&pair=doge_rur
+doge_rur  buy  1.51715519  0.46300001  1536787685  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46485478 (1,59035018) Lock : 0,46578635 (1,59035018) Last : 0,46619999 (0,83304057) 
+00:31:19.933  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:31:22.934  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:31:25.935  https://yobit.net/api/3/depth/doge_rur?limit=10
+00:31:28.936  method=ActiveOrders&nonce=168778890&pair=doge_rur
+doge_rur  buy  1.51715519  0.46300001  1536787685  0
+doge_rur  buy  19.68212965  0.29831911  1535892047  0
+doge_rur  buy  30.79170818  0.27497753  1535745457  0
+buy - - - Price : 0,46599014 (1,51464062) Lock : 0,46506002 (1,51464062) Last : 0,46506002 (1,51464062) 
+sell - - - Price : 0,46485478 (1,59035018) Lock : 0,46578635 (1,59035018) Last : 0,46619999 (0,83304057) 
+00:31:31.936  https://yobit.net/api/3/depth/doge_rur?limit=10

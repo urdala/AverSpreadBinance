@@ -1,0 +1,11 @@
+0
+unlim
+Settings :https://yobit.net  urdala77@gmail.com  doge_rur  961E98BB13127B4BF0E240F246A3620B  e47fcb621d309bb1e7b7835e13fe6635  1  5  
+Settings :https://yobit.net  urdala77@gmail.com  doge_rur  961E98BB13127B4BF0E240F246A3620B  e47fcb621d309bb1e7b7835e13fe6635  1  5  
+23:59:07.572  https://yobit.net/api/3/depth/doge_rur?limit=1
+0
+unlim
+23:59:12.563  https://yobit.net/api/3/info
+MinLot : 0,00010000(0,00021587)   Fee :0.2
+23:59:17.563  method=getInfo&nonce=168759576
+23:59:22.563  https://yobit.net/api/3/depth/doge_btc-usd_rur-doge_usd-doge_rur-btc_rur-btc_usd?limit=1
