@@ -1,2 +1,0 @@
-12:57:56.568  method=getInfo&nonce=181322766
-12:58:00.005  https://yobit.net/api/3/depth/eth_btc-ltc_btc-yotra_btc-btc_rur-btc_usd?limit=1
